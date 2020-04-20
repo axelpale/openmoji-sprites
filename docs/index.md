@@ -1,10 +1,10 @@
 # OpenMoji Sprites
 
-This project is an attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+This project is a work-in-progress attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 ## smileys-emotion 72x72
 
-![](smileys-emotion.png)
+[<img src="smileys-emotion.png" width="50%">](smileys-emotion.png)
 
 *   Merged image: [smileys-emotion.png](smileys-emotion.png)
 *   HTML image map: [smileys-emotion.html](smileys-emotion.html)
@@ -15,7 +15,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## people-body 72x72
 
-![](people-body.png)
+[<img src="people-body.png" width="50%">](people-body.png)
 
 *   Merged image: [people-body.png](people-body.png)
 *   HTML image map: [people-body.html](people-body.html)
@@ -26,7 +26,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## animals-nature 72x72
 
-![](animals-nature.png)
+[<img src="animals-nature.png" width="50%">](animals-nature.png)
 
 *   Merged image: [animals-nature.png](animals-nature.png)
 *   HTML image map: [animals-nature.html](animals-nature.html)
@@ -37,7 +37,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## food-drink 72x72
 
-![](food-drink.png)
+[<img src="food-drink.png" width="50%">](food-drink.png)
 
 *   Merged image: [food-drink.png](food-drink.png)
 *   HTML image map: [food-drink.html](food-drink.html)
@@ -48,7 +48,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## travel-places 72x72
 
-![](travel-places.png)
+[<img src="travel-places.png" width="50%">](travel-places.png)
 
 *   Merged image: [travel-places.png](travel-places.png)
 *   HTML image map: [travel-places.html](travel-places.html)
@@ -59,7 +59,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## activities 72x72
 
-![](activities.png)
+[<img src="activities.png" width="50%">](activities.png)
 
 *   Merged image: [activities.png](activities.png)
 *   HTML image map: [activities.html](activities.html)
@@ -70,7 +70,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## objects 72x72
 
-![](objects.png)
+[<img src="objects.png" width="50%">](objects.png)
 
 *   Merged image: [objects.png](objects.png)
 *   HTML image map: [objects.html](objects.html)
@@ -81,7 +81,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## symbols 72x72
 
-![](symbols.png)
+[<img src="symbols.png" width="50%">](symbols.png)
 
 *   Merged image: [symbols.png](symbols.png)
 *   HTML image map: [symbols.html](symbols.html)
@@ -92,7 +92,7 @@ This project is an attempt to create a practical set of sprite sheets for [OpenM
 
 ## extras-openmoji 72x72
 
-![](extras-openmoji.png)
+[<img src="extras-openmoji.png" width="50%">](extras-openmoji.png)
 
 *   Merged image: [extras-openmoji.png](extras-openmoji.png)
 *   HTML image map: [extras-openmoji.html](extras-openmoji.html)
