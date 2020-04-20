@@ -1,0 +1,490 @@
+.openmoji {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 72px;
+  height: 72px;
+  background-image: url('travel-places.png');
+  background-repeat: no-repeat;
+}
+
+.openmoji-1F30D {
+  background-position: -0px -0px;
+}
+.openmoji-1F30E {
+  background-position: -72px -0px;
+}
+.openmoji-1F30F {
+  background-position: -144px -0px;
+}
+.openmoji-1F310 {
+  background-position: -216px -0px;
+}
+.openmoji-1F5FA {
+  background-position: -288px -0px;
+}
+.openmoji-1F5FE {
+  background-position: -360px -0px;
+}
+.openmoji-1F9ED {
+  background-position: -432px -0px;
+}
+.openmoji-1F3D4 {
+  background-position: -504px -0px;
+}
+.openmoji-26F0 {
+  background-position: -576px -0px;
+}
+.openmoji-1F30B {
+  background-position: -648px -0px;
+}
+.openmoji-1F5FB {
+  background-position: -0px -72px;
+}
+.openmoji-1F3D5 {
+  background-position: -72px -72px;
+}
+.openmoji-1F3D6 {
+  background-position: -144px -72px;
+}
+.openmoji-1F3DC {
+  background-position: -216px -72px;
+}
+.openmoji-1F3DD {
+  background-position: -288px -72px;
+}
+.openmoji-1F3DE {
+  background-position: -360px -72px;
+}
+.openmoji-1F3DF {
+  background-position: -432px -72px;
+}
+.openmoji-1F3DB {
+  background-position: -504px -72px;
+}
+.openmoji-1F3D7 {
+  background-position: -576px -72px;
+}
+.openmoji-1F9F1 {
+  background-position: -648px -72px;
+}
+.openmoji-1F3D8 {
+  background-position: -0px -144px;
+}
+.openmoji-1F3DA {
+  background-position: -72px -144px;
+}
+.openmoji-1F3E0 {
+  background-position: -144px -144px;
+}
+.openmoji-1F3E1 {
+  background-position: -216px -144px;
+}
+.openmoji-1F3E2 {
+  background-position: -288px -144px;
+}
+.openmoji-1F3E3 {
+  background-position: -360px -144px;
+}
+.openmoji-1F3E4 {
+  background-position: -432px -144px;
+}
+.openmoji-1F3E5 {
+  background-position: -504px -144px;
+}
+.openmoji-1F3E6 {
+  background-position: -576px -144px;
+}
+.openmoji-1F3E8 {
+  background-position: -648px -144px;
+}
+.openmoji-1F3E9 {
+  background-position: -0px -216px;
+}
+.openmoji-1F3EA {
+  background-position: -72px -216px;
+}
+.openmoji-1F3EB {
+  background-position: -144px -216px;
+}
+.openmoji-1F3EC {
+  background-position: -216px -216px;
+}
+.openmoji-1F3ED {
+  background-position: -288px -216px;
+}
+.openmoji-1F3EF {
+  background-position: -360px -216px;
+}
+.openmoji-1F3F0 {
+  background-position: -432px -216px;
+}
+.openmoji-1F492 {
+  background-position: -504px -216px;
+}
+.openmoji-1F5FC {
+  background-position: -576px -216px;
+}
+.openmoji-1F5FD {
+  background-position: -648px -216px;
+}
+.openmoji-26EA {
+  background-position: -0px -288px;
+}
+.openmoji-1F54C {
+  background-position: -72px -288px;
+}
+.openmoji-1F6D5 {
+  background-position: -144px -288px;
+}
+.openmoji-1F54D {
+  background-position: -216px -288px;
+}
+.openmoji-26E9 {
+  background-position: -288px -288px;
+}
+.openmoji-1F54B {
+  background-position: -360px -288px;
+}
+.openmoji-26F2 {
+  background-position: -432px -288px;
+}
+.openmoji-26FA {
+  background-position: -504px -288px;
+}
+.openmoji-1F301 {
+  background-position: -576px -288px;
+}
+.openmoji-1F303 {
+  background-position: -648px -288px;
+}
+.openmoji-1F3D9 {
+  background-position: -0px -360px;
+}
+.openmoji-1F304 {
+  background-position: -72px -360px;
+}
+.openmoji-1F305 {
+  background-position: -144px -360px;
+}
+.openmoji-1F306 {
+  background-position: -216px -360px;
+}
+.openmoji-1F307 {
+  background-position: -288px -360px;
+}
+.openmoji-1F309 {
+  background-position: -360px -360px;
+}
+.openmoji-2668 {
+  background-position: -432px -360px;
+}
+.openmoji-1F3A0 {
+  background-position: -504px -360px;
+}
+.openmoji-1F3A1 {
+  background-position: -576px -360px;
+}
+.openmoji-1F3A2 {
+  background-position: -648px -360px;
+}
+.openmoji-1F488 {
+  background-position: -0px -432px;
+}
+.openmoji-1F3AA {
+  background-position: -72px -432px;
+}
+.openmoji-1F682 {
+  background-position: -144px -432px;
+}
+.openmoji-1F683 {
+  background-position: -216px -432px;
+}
+.openmoji-1F684 {
+  background-position: -288px -432px;
+}
+.openmoji-1F685 {
+  background-position: -360px -432px;
+}
+.openmoji-1F686 {
+  background-position: -432px -432px;
+}
+.openmoji-1F687 {
+  background-position: -504px -432px;
+}
+.openmoji-1F688 {
+  background-position: -576px -432px;
+}
+.openmoji-1F689 {
+  background-position: -648px -432px;
+}
+.openmoji-1F68A {
+  background-position: -0px -504px;
+}
+.openmoji-1F69D {
+  background-position: -72px -504px;
+}
+.openmoji-1F69E {
+  background-position: -144px -504px;
+}
+.openmoji-1F68B {
+  background-position: -216px -504px;
+}
+.openmoji-1F68C {
+  background-position: -288px -504px;
+}
+.openmoji-1F68D {
+  background-position: -360px -504px;
+}
+.openmoji-1F68E {
+  background-position: -432px -504px;
+}
+.openmoji-1F690 {
+  background-position: -504px -504px;
+}
+.openmoji-1F691 {
+  background-position: -576px -504px;
+}
+.openmoji-1F692 {
+  background-position: -648px -504px;
+}
+.openmoji-1F693 {
+  background-position: -0px -576px;
+}
+.openmoji-1F694 {
+  background-position: -72px -576px;
+}
+.openmoji-1F695 {
+  background-position: -144px -576px;
+}
+.openmoji-1F696 {
+  background-position: -216px -576px;
+}
+.openmoji-1F697 {
+  background-position: -288px -576px;
+}
+.openmoji-1F698 {
+  background-position: -360px -576px;
+}
+.openmoji-1F699 {
+  background-position: -432px -576px;
+}
+.openmoji-1F6FB {
+  background-position: -504px -576px;
+}
+.openmoji-1F69A {
+  background-position: -576px -576px;
+}
+.openmoji-1F69B {
+  background-position: -648px -576px;
+}
+.openmoji-1F69C {
+  background-position: -0px -648px;
+}
+.openmoji-1F3CE {
+  background-position: -72px -648px;
+}
+.openmoji-1F3CD {
+  background-position: -144px -648px;
+}
+.openmoji-1F6F5 {
+  background-position: -216px -648px;
+}
+.openmoji-1F9BD {
+  background-position: -288px -648px;
+}
+.openmoji-1F9BC {
+  background-position: -360px -648px;
+}
+.openmoji-1F6FA {
+  background-position: -432px -648px;
+}
+.openmoji-1F6B2 {
+  background-position: -504px -648px;
+}
+.openmoji-1F6F4 {
+  background-position: -576px -648px;
+}
+.openmoji-1F6F9 {
+  background-position: -648px -648px;
+}
+.openmoji-1F6FC {
+  background-position: -0px -720px;
+}
+.openmoji-1F68F {
+  background-position: -72px -720px;
+}
+.openmoji-1F6E3 {
+  background-position: -144px -720px;
+}
+.openmoji-1F6E4 {
+  background-position: -216px -720px;
+}
+.openmoji-1F6E2 {
+  background-position: -288px -720px;
+}
+.openmoji-26FD {
+  background-position: -360px -720px;
+}
+.openmoji-1F6A8 {
+  background-position: -432px -720px;
+}
+.openmoji-1F6A5 {
+  background-position: -504px -720px;
+}
+.openmoji-1F6A6 {
+  background-position: -576px -720px;
+}
+.openmoji-1F6D1 {
+  background-position: -648px -720px;
+}
+.openmoji-1F6A7 {
+  background-position: -0px -792px;
+}
+.openmoji-2693 {
+  background-position: -72px -792px;
+}
+.openmoji-26F5 {
+  background-position: -144px -792px;
+}
+.openmoji-1F6F6 {
+  background-position: -216px -792px;
+}
+.openmoji-1F6A4 {
+  background-position: -288px -792px;
+}
+.openmoji-1F6F3 {
+  background-position: -360px -792px;
+}
+.openmoji-26F4 {
+  background-position: -432px -792px;
+}
+.openmoji-1F6E5 {
+  background-position: -504px -792px;
+}
+.openmoji-1F6A2 {
+  background-position: -576px -792px;
+}
+.openmoji-2708 {
+  background-position: -648px -792px;
+}
+.openmoji-1F6E9 {
+  background-position: -0px -864px;
+}
+.openmoji-1F6EB {
+  background-position: -72px -864px;
+}
+.openmoji-1F6EC {
+  background-position: -144px -864px;
+}
+.openmoji-1FA82 {
+  background-position: -216px -864px;
+}
+.openmoji-1F4BA {
+  background-position: -288px -864px;
+}
+.openmoji-1F681 {
+  background-position: -360px -864px;
+}
+.openmoji-1F69F {
+  background-position: -432px -864px;
+}
+.openmoji-1F6A0 {
+  background-position: -504px -864px;
+}
+.openmoji-1F6A1 {
+  background-position: -576px -864px;
+}
+.openmoji-1F6F0 {
+  background-position: -648px -864px;
+}
+.openmoji-1F680 {
+  background-position: -0px -936px;
+}
+.openmoji-1F6F8 {
+  background-position: -72px -936px;
+}
+.openmoji-1F6CE {
+  background-position: -144px -936px;
+}
+.openmoji-1F9F3 {
+  background-position: -216px -936px;
+}
+.openmoji-231B {
+  background-position: -288px -936px;
+}
+.openmoji-23F3 {
+  background-position: -360px -936px;
+}
+.openmoji-231A {
+  background-position: -432px -936px;
+}
+.openmoji-23F0 {
+  background-position: -504px -936px;
+}
+.openmoji-23F1 {
+  background-position: -576px -936px;
+}
+.openmoji-23F2 {
+  background-position: -648px -936px;
+}
+.openmoji-1F570 {
+  background-position: -0px -1008px;
+}
+.openmoji-1F55B {
+  background-position: -72px -1008px;
+}
+.openmoji-1F567 {
+  background-position: -144px -1008px;
+}
+.openmoji-1F550 {
+  background-position: -216px -1008px;
+}
+.openmoji-1F55C {
+  background-position: -288px -1008px;
+}
+.openmoji-1F551 {
+  background-position: -360px -1008px;
+}
+.openmoji-1F55D {
+  background-position: -432px -1008px;
+}
+.openmoji-1F552 {
+  background-position: -504px -1008px;
+}
+.openmoji-1F55E {
+  background-position: -576px -1008px;
+}
+.openmoji-1F553 {
+  background-position: -648px -1008px;
+}
+.openmoji-1F55F {
+  background-position: -0px -1080px;
+}
+.openmoji-1F554 {
+  background-position: -72px -1080px;
+}
+.openmoji-1F560 {
+  background-position: -144px -1080px;
+}
+.openmoji-1F555 {
+  background-position: -216px -1080px;
+}
+.openmoji-1F561 {
+  background-position: -288px -1080px;
+}
+.openmoji-1F556 {
+  background-position: -360px -1080px;
+}
+.openmoji-1F562 {
+  background-position: -432px -1080px;
+}
+.openmoji-1F557 {
+  background-position: -504px -1080px;
+}
+.openmoji-1F563 {
+  background-position: -576px -1080px;
+}
+.openmoji-1F558 {
+  background-position: -648px -1080px;
+}
