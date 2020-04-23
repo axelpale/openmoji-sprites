@@ -18,9 +18,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 &nbsp;
 
 <details>
-  <summary>
-  <h2 style="display:inline">people-body 72x72</h2>
-  </summary>
+  <summary>people-body 72x72</summary>
 
 ![](people-body.png)
 
@@ -35,9 +33,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 &nbsp;
 
 <details>
-  <summary>
-  <h2 style="display:inline">animals-nature 72x72</h2>
-  </summary>
+  <summary><h2 style="display:inline">animals-nature 72x72</h2></summary>
 
 [<img src="animals-nature.png" width="50%">](animals-nature.png)
 
