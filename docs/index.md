@@ -1,6 +1,9 @@
 This project is a work-in-progress attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-## smileys-emotion 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">smileys-emotion 72x72</h2>
+  </summary>
 
 [<img src="smileys-emotion.png" width="50%">](smileys-emotion.png)
 
@@ -9,9 +12,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [smileys-emotion.css](smileys-emotion.css)
 *   CSS sprite example: [smileys-emotion-css.html](smileys-emotion-css.html)
 *   Custom JSON: [smileys-emotion.json](smileys-emotion.json)
+</details>
 
 
-## people-body 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">people-body 72x72</h2>
+  </summary>
 
 [<img src="people-body.png" width="50%">](people-body.png)
 
@@ -20,9 +27,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [people-body.css](people-body.css)
 *   CSS sprite example: [people-body-css.html](people-body-css.html)
 *   Custom JSON: [people-body.json](people-body.json)
+</details>
 
 
-## animals-nature 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">animals-nature 72x72</h2>
+  </summary>
 
 [<img src="animals-nature.png" width="50%">](animals-nature.png)
 
@@ -31,9 +42,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [animals-nature.css](animals-nature.css)
 *   CSS sprite example: [animals-nature-css.html](animals-nature-css.html)
 *   Custom JSON: [animals-nature.json](animals-nature.json)
+</details>
 
 
-## food-drink 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">food-drink 72x72</h2>
+  </summary>
 
 [<img src="food-drink.png" width="50%">](food-drink.png)
 
@@ -42,9 +57,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [food-drink.css](food-drink.css)
 *   CSS sprite example: [food-drink-css.html](food-drink-css.html)
 *   Custom JSON: [food-drink.json](food-drink.json)
+</details>
 
 
-## travel-places 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">travel-places 72x72</h2>
+  </summary>
 
 [<img src="travel-places.png" width="50%">](travel-places.png)
 
@@ -53,9 +72,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [travel-places.css](travel-places.css)
 *   CSS sprite example: [travel-places-css.html](travel-places-css.html)
 *   Custom JSON: [travel-places.json](travel-places.json)
+</details>
 
 
-## activities 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">activities 72x72</h2>
+  </summary>
 
 [<img src="activities.png" width="50%">](activities.png)
 
@@ -64,9 +87,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [activities.css](activities.css)
 *   CSS sprite example: [activities-css.html](activities-css.html)
 *   Custom JSON: [activities.json](activities.json)
+</details>
 
 
-## objects 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">objects 72x72</h2>
+  </summary>
 
 [<img src="objects.png" width="50%">](objects.png)
 
@@ -75,9 +102,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [objects.css](objects.css)
 *   CSS sprite example: [objects-css.html](objects-css.html)
 *   Custom JSON: [objects.json](objects.json)
+</details>
 
 
-## symbols 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">symbols 72x72</h2>
+  </summary>
 
 [<img src="symbols.png" width="50%">](symbols.png)
 
@@ -86,9 +117,13 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [symbols.css](symbols.css)
 *   CSS sprite example: [symbols-css.html](symbols-css.html)
 *   Custom JSON: [symbols.json](symbols.json)
+</details>
 
 
-## extras-openmoji 72x72
+<details>
+  <summary>
+  <h2 style="display:inline">extras-openmoji 72x72</h2>
+  </summary>
 
 [<img src="extras-openmoji.png" width="50%">](extras-openmoji.png)
 
@@ -97,10 +132,12 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [extras-openmoji.css](extras-openmoji.css)
 *   CSS sprite example: [extras-openmoji-css.html](extras-openmoji-css.html)
 *   Custom JSON: [extras-openmoji.json](extras-openmoji.json)
+</details>
 
+## About
 
-**Images licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).**
+Images licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-**Emojis by [OpenMoji.org](https://openmoji.org/).**
+Emojis by [OpenMoji.org](https://openmoji.org/).
 
-**2020-04-20**
+Improve this page via [GitHub](https://github.com/axelpale/openmoji-sprites).
