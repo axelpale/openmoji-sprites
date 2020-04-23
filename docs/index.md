@@ -22,7 +22,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
   <h2 style="display:inline">people-body 72x72</h2>
   </summary>
 
-[<img src="people-body.png" width="50%">](people-body.png)
+![](people-body.png)
 
 *   Merged image: [people-body.png](people-body.png)
 *   HTML image map: [people-body.html](people-body.html)
