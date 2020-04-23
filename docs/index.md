@@ -101,8 +101,7 @@ Custom JSON: [extras-openmoji.json](extras-openmoji.json)
 
 ## About
 
-Images licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-
+Images licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).<br>
 Emojis by [OpenMoji.org](https://openmoji.org/).
 
 Improve this page via [GitHub](https://github.com/axelpale/openmoji-sprites).
