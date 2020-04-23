@@ -1,6 +1,6 @@
 This project is a work-in-progress attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-<details>
+<details open>
   <summary>
   <h2 style="display:inline">smileys-emotion 72x72</h2>
   </summary>
@@ -15,6 +15,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -31,6 +32,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -44,8 +46,10 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [animals-nature.css](animals-nature.css)
 *   CSS sprite example: [animals-nature-css.html](animals-nature-css.html)
 *   Custom JSON: [animals-nature.json](animals-nature.json)
+
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -62,6 +66,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -78,6 +83,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -94,6 +100,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -110,6 +117,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
@@ -126,6 +134,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 </details>
 
+&nbsp;
 
 <details>
   <summary>
