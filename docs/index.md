@@ -12,6 +12,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [smileys-emotion.css](smileys-emotion.css)
 *   CSS sprite example: [smileys-emotion-css.html](smileys-emotion-css.html)
 *   Custom JSON: [smileys-emotion.json](smileys-emotion.json)
+
 </details>
 
 
@@ -27,6 +28,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [people-body.css](people-body.css)
 *   CSS sprite example: [people-body-css.html](people-body-css.html)
 *   Custom JSON: [people-body.json](people-body.json)
+
 </details>
 
 
@@ -57,6 +59,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [food-drink.css](food-drink.css)
 *   CSS sprite example: [food-drink-css.html](food-drink-css.html)
 *   Custom JSON: [food-drink.json](food-drink.json)
+
 </details>
 
 
@@ -72,6 +75,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [travel-places.css](travel-places.css)
 *   CSS sprite example: [travel-places-css.html](travel-places-css.html)
 *   Custom JSON: [travel-places.json](travel-places.json)
+
 </details>
 
 
@@ -87,6 +91,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [activities.css](activities.css)
 *   CSS sprite example: [activities-css.html](activities-css.html)
 *   Custom JSON: [activities.json](activities.json)
+
 </details>
 
 
@@ -102,6 +107,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [objects.css](objects.css)
 *   CSS sprite example: [objects-css.html](objects-css.html)
 *   Custom JSON: [objects.json](objects.json)
+
 </details>
 
 
@@ -117,6 +123,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [symbols.css](symbols.css)
 *   CSS sprite example: [symbols-css.html](symbols-css.html)
 *   Custom JSON: [symbols.json](symbols.json)
+
 </details>
 
 
@@ -132,6 +139,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 *   CSS sprite sheet: [extras-openmoji.css](extras-openmoji.css)
 *   CSS sprite example: [extras-openmoji-css.html](extras-openmoji-css.html)
 *   Custom JSON: [extras-openmoji.json](extras-openmoji.json)
+
 </details>
 
 ## About
