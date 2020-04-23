@@ -2,7 +2,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## smileys-emotion 72x72
 
-[<img src="smileys-emotion.png" width="50%">](smileys-emotion.png)
+[<img src="smileys-emotion.png" width="180">](smileys-emotion.png)
 
 *   Merged image: [smileys-emotion.png](smileys-emotion.png)
 *   HTML image map: [smileys-emotion.html](smileys-emotion.html)
@@ -13,7 +13,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## people-body 72x72
 
-[<img src="people-body.png" width="50%">](people-body.png)
+[<img src="people-body.png" width="180">](people-body.png)
 
 *   Merged image: [people-body.png](people-body.png)
 *   HTML image map: [people-body.html](people-body.html)
@@ -24,7 +24,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## animals-nature 72x72
 
-[<img src="animals-nature.png" width="50%">](animals-nature.png)
+[<img src="animals-nature.png" width="180">](animals-nature.png)
 
 *   Merged image: [animals-nature.png](animals-nature.png)
 *   HTML image map: [animals-nature.html](animals-nature.html)
@@ -35,7 +35,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## food-drink 72x72
 
-[<img src="food-drink.png" width="50%">](food-drink.png)
+[<img src="food-drink.png" width="180">](food-drink.png)
 
 *   Merged image: [food-drink.png](food-drink.png)
 *   HTML image map: [food-drink.html](food-drink.html)
@@ -46,7 +46,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## travel-places 72x72
 
-[<img src="travel-places.png" width="50%">](travel-places.png)
+[<img src="travel-places.png" width="180">](travel-places.png)
 
 *   Merged image: [travel-places.png](travel-places.png)
 *   HTML image map: [travel-places.html](travel-places.html)
@@ -57,7 +57,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## activities 72x72
 
-[<img src="activities.png" width="50%">](activities.png)
+[<img src="activities.png" width="180">](activities.png)
 
 *   Merged image: [activities.png](activities.png)
 *   HTML image map: [activities.html](activities.html)
@@ -68,7 +68,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## objects 72x72
 
-[<img src="objects.png" width="50%">](objects.png)
+[<img src="objects.png" width="180">](objects.png)
 
 *   Merged image: [objects.png](objects.png)
 *   HTML image map: [objects.html](objects.html)
@@ -79,7 +79,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## symbols 72x72
 
-[<img src="symbols.png" width="50%">](symbols.png)
+[<img src="symbols.png" width="180">](symbols.png)
 
 *   Merged image: [symbols.png](symbols.png)
 *   HTML image map: [symbols.html](symbols.html)
@@ -90,7 +90,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 ## extras-openmoji 72x72
 
-[<img src="extras-openmoji.png" width="50%">](extras-openmoji.png)
+[<img src="extras-openmoji.png" width="180">](extras-openmoji.png)
 
 *   Merged image: [extras-openmoji.png](extras-openmoji.png)
 *   HTML image map: [extras-openmoji.html](extras-openmoji.html)
