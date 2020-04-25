@@ -1,0 +1,46 @@
+.openmoji {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 72px;
+  height: 72px;
+  background-image: url('people-body-1.png');
+  background-repeat: no-repeat;
+}
+
+.openmoji-1F6CC {
+  background-position: -0px -0px;
+}
+.openmoji-1F46D {
+  background-position: -72px -0px;
+}
+.openmoji-1F46B {
+  background-position: -144px -0px;
+}
+.openmoji-1F46C {
+  background-position: -216px -0px;
+}
+.openmoji-1F48F {
+  background-position: -288px -0px;
+}
+.openmoji-1F491 {
+  background-position: -360px -0px;
+}
+.openmoji-1F46A {
+  background-position: -432px -0px;
+}
+.openmoji-1F5E3 {
+  background-position: -504px -0px;
+}
+.openmoji-1F464 {
+  background-position: -0px -72px;
+}
+.openmoji-1F465 {
+  background-position: -72px -72px;
+}
+.openmoji-1FAC2 {
+  background-position: -144px -72px;
+}
+.openmoji-1F463 {
+  background-position: -216px -72px;
+}

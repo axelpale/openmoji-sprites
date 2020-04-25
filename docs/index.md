@@ -35,6 +35,28 @@ This project is a work-in-progress attempt to create a practical set of sprite s
   Custom JSON: [svg/smileys-emotion.json](svg/smileys-emotion.json)
 </details>
 
+[<img src="png/smileys-emotion-1.png" width="180">](png/smileys-emotion-1.png)
+
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: [png/smileys-emotion-1.png](png/smileys-emotion-1.png)<br>
+  HTML image map: [png/smileys-emotion-1.html](png/smileys-emotion-1.html)<br>
+  CSS sprite sheet: [png/smileys-emotion-1.css](png/smileys-emotion-1.css)<br>
+  CSS sprite example: [png/smileys-emotion-1-css.html](png/smileys-emotion-1-css.html)<br>
+  Custom JSON: [png/smileys-emotion-1.json](png/smileys-emotion-1.json)
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+
+  Merged image: [svg/smileys-emotion-1.svg](svg/smileys-emotion-1.svg)<br>
+  HTML image map: [svg/smileys-emotion-1.html](svg/smileys-emotion-1.html)<br>
+  CSS sprite sheet: [svg/smileys-emotion-1.css](svg/smileys-emotion-1.css)<br>
+  CSS sprite example: [svg/smileys-emotion-1-css.html](svg/smileys-emotion-1-css.html)<br>
+  Custom JSON: [svg/smileys-emotion-1.json](svg/smileys-emotion-1.json)
+</details>
+
 
 ## 👋 people-body 72x72
 
@@ -45,6 +67,14 @@ HTML image map: [png/people-body.html](png/people-body.html)<br>
 CSS sprite sheet: [png/people-body.css](png/people-body.css)<br>
 CSS sprite example: [png/people-body-css.html](png/people-body-css.html)<br>
 Custom JSON: [png/people-body.json](png/people-body.json)
+
+[<img src="png/people-body-1.png" width="180">](png/people-body-1.png)
+
+Merged image: [png/people-body-1.png](png/people-body-1.png)<br>
+HTML image map: [png/people-body-1.html](png/people-body-1.html)<br>
+CSS sprite sheet: [png/people-body-1.css](png/people-body-1.css)<br>
+CSS sprite example: [png/people-body-1-css.html](png/people-body-1-css.html)<br>
+Custom JSON: [png/people-body-1.json](png/people-body-1.json)
 
 
 ## 🐵 animals-nature 72x72
@@ -79,6 +109,14 @@ CSS sprite sheet: [png/travel-places.css](png/travel-places.css)<br>
 CSS sprite example: [png/travel-places-css.html](png/travel-places-css.html)<br>
 Custom JSON: [png/travel-places.json](png/travel-places.json)
 
+[<img src="png/travel-places-1.png" width="180">](png/travel-places-1.png)
+
+Merged image: [png/travel-places-1.png](png/travel-places-1.png)<br>
+HTML image map: [png/travel-places-1.html](png/travel-places-1.html)<br>
+CSS sprite sheet: [png/travel-places-1.css](png/travel-places-1.css)<br>
+CSS sprite example: [png/travel-places-1-css.html](png/travel-places-1-css.html)<br>
+Custom JSON: [png/travel-places-1.json](png/travel-places-1.json)
+
 
 ## 🎃 activities 72x72
 
@@ -101,6 +139,14 @@ CSS sprite sheet: [png/objects.css](png/objects.css)<br>
 CSS sprite example: [png/objects-css.html](png/objects-css.html)<br>
 Custom JSON: [png/objects.json](png/objects.json)
 
+[<img src="png/objects-1.png" width="180">](png/objects-1.png)
+
+Merged image: [png/objects-1.png](png/objects-1.png)<br>
+HTML image map: [png/objects-1.html](png/objects-1.html)<br>
+CSS sprite sheet: [png/objects-1.css](png/objects-1.css)<br>
+CSS sprite example: [png/objects-1-css.html](png/objects-1-css.html)<br>
+Custom JSON: [png/objects-1.json](png/objects-1.json)
+
 
 ## 🏧 symbols 72x72
 
@@ -112,6 +158,14 @@ CSS sprite sheet: [png/symbols.css](png/symbols.css)<br>
 CSS sprite example: [png/symbols-css.html](png/symbols-css.html)<br>
 Custom JSON: [png/symbols.json](png/symbols.json)
 
+[<img src="png/symbols-1.png" width="180">](png/symbols-1.png)
+
+Merged image: [png/symbols-1.png](png/symbols-1.png)<br>
+HTML image map: [png/symbols-1.html](png/symbols-1.html)<br>
+CSS sprite sheet: [png/symbols-1.css](png/symbols-1.css)<br>
+CSS sprite example: [png/symbols-1-css.html](png/symbols-1-css.html)<br>
+Custom JSON: [png/symbols-1.json](png/symbols-1.json)
+
 
 ## :octocat: extras-openmoji 72x72
 
@@ -122,6 +176,14 @@ HTML image map: [png/extras-openmoji.html](png/extras-openmoji.html)<br>
 CSS sprite sheet: [png/extras-openmoji.css](png/extras-openmoji.css)<br>
 CSS sprite example: [png/extras-openmoji-css.html](png/extras-openmoji-css.html)<br>
 Custom JSON: [png/extras-openmoji.json](png/extras-openmoji.json)
+
+[<img src="png/extras-openmoji-1.png" width="180">](png/extras-openmoji-1.png)
+
+Merged image: [png/extras-openmoji-1.png](png/extras-openmoji-1.png)<br>
+HTML image map: [png/extras-openmoji-1.html](png/extras-openmoji-1.html)<br>
+CSS sprite sheet: [png/extras-openmoji-1.css](png/extras-openmoji-1.css)<br>
+CSS sprite example: [png/extras-openmoji-1-css.html](png/extras-openmoji-1-css.html)<br>
+Custom JSON: [png/extras-openmoji-1.json](png/extras-openmoji-1.json)
 
 
 ## ℹ About

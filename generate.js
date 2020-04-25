@@ -2,6 +2,7 @@
 // how multiple sprite sheets can be created with a single command.
 //
 const mojis = require('./openmoji.json') // TODO require('openmoji')
+const _ = require('lodash')
 const asyn = require('async')
 const generate = require('openmoji-spritemap-generator')
 const generateIndex = require('./lib/htmlIndex')
@@ -24,31 +25,47 @@ const mojiGroups = shortMojis.reduce((acc, moji) => {
 }, {})
 
 // Limit all groups to 8 * 16 emojis to avoid bus error 10.
+// Object.keys(mojiGroups).forEach(groupName => {
+//   mojiGroups[groupName] = mojiGroups[groupName].slice(0, 128)
+// })
+
+// Chop sheets in N emojis
+const COLUMNS = 8
+const CHUNK_SIZE = 16 * COLUMNS
+const chunks = []
 Object.keys(mojiGroups).forEach(groupName => {
-  mojiGroups[groupName] = mojiGroups[groupName].slice(0, 128)
+  const group = mojiGroups[groupName]
+  for (let i = 0; i < group.length; i += CHUNK_SIZE) {
+    chunks.push({
+      index: Math.floor(i / CHUNK_SIZE),
+      name: groupName,
+      emojis: group.slice(i, i + CHUNK_SIZE)
+    })
+  }
 })
+const groupArray = _.flatten(chunks)
 
 // For each group, run sheet generator.
 // Sheet generation is asynchronous operation, thus @caolan/async is used.
-asyn.eachSeries(Object.keys(mojiGroups), (groupName, next) => {
-  const mojiGroup = mojiGroups[groupName]
+asyn.eachSeries(groupArray, (group, next) => {
+  const postfix = (group.index > 0) ? '-' + group.index : ''
   generate({
     mode: 'png',
-    name: groupName,
-    emojis: mojiGroup,
+    name: group.name + postfix,
+    emojis: group.emojis,
     emojiDir: path.join(__dirname, 'openmoji-72x72-color'),
     targetDir: path.join(__dirname, 'docs', 'png'),
     emojiSize: 72,
-    columns: 8
+    columns: COLUMNS
   }, (er) => {
     generate({
       mode: 'svg',
-      name: groupName,
-      emojis: mojiGroup,
+      name: group.name + postfix,
+      emojis: group.emojis,
       emojiDir: path.join(__dirname, 'openmoji-svg-color'),
       targetDir: path.join(__dirname, 'docs', 'svg'),
       emojiSize: 72, // TODO needed with svg?
-      columns: 8 // TODO needed with svg?
+      columns: COLUMNS // TODO needed with svg?
     }, next)
   })
 }, (err) => {
@@ -58,11 +75,9 @@ asyn.eachSeries(Object.keys(mojiGroups), (groupName, next) => {
   }
 
   // Generate an index page to browse the generated sheets.
-  const indexHtml = generateIndex(mojiGroups, {
-    mode: 'png'
-  })
-  const indexPath = path.join(__dirname, 'docs', 'generated.html')
-  fs.writeFileSync(indexPath, indexHtml)
+  // const indexHtml = generateIndex(groupArray)
+  // const indexPath = path.join(__dirname, 'docs', 'generated.html')
+  // fs.writeFileSync(indexPath, indexHtml)
 
   console.log('Finished successfully.')
 })

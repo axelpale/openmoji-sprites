@@ -1,0 +1,16 @@
+.openmoji {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 72px;
+  height: 72px;
+  background-image: url('animals-nature-1.png');
+  background-repeat: no-repeat;
+}
+
+.openmoji-1F342 {
+  background-position: -0px -0px;
+}
+.openmoji-1F343 {
+  background-position: -72px -0px;
+}

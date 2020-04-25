@@ -1,0 +1,331 @@
+.openmoji {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 72px;
+  height: 72px;
+  background-image: url('extras-openmoji-1.png');
+  background-repeat: no-repeat;
+}
+
+.openmoji-E32B {
+  background-position: -0px -0px;
+}
+.openmoji-E100 {
+  background-position: -72px -0px;
+}
+.openmoji-E101 {
+  background-position: -144px -0px;
+}
+.openmoji-E102 {
+  background-position: -216px -0px;
+}
+.openmoji-E103 {
+  background-position: -288px -0px;
+}
+.openmoji-E104 {
+  background-position: -360px -0px;
+}
+.openmoji-E105 {
+  background-position: -432px -0px;
+}
+.openmoji-E106 {
+  background-position: -504px -0px;
+}
+.openmoji-E107 {
+  background-position: -0px -72px;
+}
+.openmoji-E108 {
+  background-position: -72px -72px;
+}
+.openmoji-E109 {
+  background-position: -144px -72px;
+}
+.openmoji-E10A {
+  background-position: -216px -72px;
+}
+.openmoji-E10B {
+  background-position: -288px -72px;
+}
+.openmoji-E10C {
+  background-position: -360px -72px;
+}
+.openmoji-E10D {
+  background-position: -432px -72px;
+}
+.openmoji-E140 {
+  background-position: -504px -72px;
+}
+.openmoji-E141 {
+  background-position: -0px -144px;
+}
+.openmoji-E142 {
+  background-position: -72px -144px;
+}
+.openmoji-E143 {
+  background-position: -144px -144px;
+}
+.openmoji-E144 {
+  background-position: -216px -144px;
+}
+.openmoji-E146 {
+  background-position: -288px -144px;
+}
+.openmoji-E147 {
+  background-position: -360px -144px;
+}
+.openmoji-E148 {
+  background-position: -432px -144px;
+}
+.openmoji-E181 {
+  background-position: -504px -144px;
+}
+.openmoji-E182 {
+  background-position: -0px -216px;
+}
+.openmoji-E183 {
+  background-position: -72px -216px;
+}
+.openmoji-E184 {
+  background-position: -144px -216px;
+}
+.openmoji-E280 {
+  background-position: -216px -216px;
+}
+.openmoji-E281 {
+  background-position: -288px -216px;
+}
+.openmoji-E1C0 {
+  background-position: -360px -216px;
+}
+.openmoji-E1C1 {
+  background-position: -432px -216px;
+}
+.openmoji-E1C2 {
+  background-position: -504px -216px;
+}
+.openmoji-E1C3 {
+  background-position: -0px -288px;
+}
+.openmoji-E1C4 {
+  background-position: -72px -288px;
+}
+.openmoji-E1C5 {
+  background-position: -144px -288px;
+}
+.openmoji-E1C6 {
+  background-position: -216px -288px;
+}
+.openmoji-E1C7 {
+  background-position: -288px -288px;
+}
+.openmoji-E1C8 {
+  background-position: -360px -288px;
+}
+.openmoji-E1C9 {
+  background-position: -432px -288px;
+}
+.openmoji-E1CA {
+  background-position: -504px -288px;
+}
+.openmoji-E1CB {
+  background-position: -0px -360px;
+}
+.openmoji-E1CC {
+  background-position: -72px -360px;
+}
+.openmoji-E1CD {
+  background-position: -144px -360px;
+}
+.openmoji-E1CE {
+  background-position: -216px -360px;
+}
+.openmoji-E1CF {
+  background-position: -288px -360px;
+}
+.openmoji-E1D0 {
+  background-position: -360px -360px;
+}
+.openmoji-E1D1 {
+  background-position: -432px -360px;
+}
+.openmoji-E1D2 {
+  background-position: -504px -360px;
+}
+.openmoji-E1D3 {
+  background-position: -0px -432px;
+}
+.openmoji-E1D4 {
+  background-position: -72px -432px;
+}
+.openmoji-E1D5 {
+  background-position: -144px -432px;
+}
+.openmoji-E1D6 {
+  background-position: -216px -432px;
+}
+.openmoji-E1D7 {
+  background-position: -288px -432px;
+}
+.openmoji-E200 {
+  background-position: -360px -432px;
+}
+.openmoji-E201 {
+  background-position: -432px -432px;
+}
+.openmoji-E202 {
+  background-position: -504px -432px;
+}
+.openmoji-E203 {
+  background-position: -0px -504px;
+}
+.openmoji-E204 {
+  background-position: -72px -504px;
+}
+.openmoji-E205 {
+  background-position: -144px -504px;
+}
+.openmoji-E206 {
+  background-position: -216px -504px;
+}
+.openmoji-E207 {
+  background-position: -288px -504px;
+}
+.openmoji-E208 {
+  background-position: -360px -504px;
+}
+.openmoji-E209 {
+  background-position: -432px -504px;
+}
+.openmoji-E20A {
+  background-position: -504px -504px;
+}
+.openmoji-E20B {
+  background-position: -0px -576px;
+}
+.openmoji-E240 {
+  background-position: -72px -576px;
+}
+.openmoji-E241 {
+  background-position: -144px -576px;
+}
+.openmoji-E242 {
+  background-position: -216px -576px;
+}
+.openmoji-E243 {
+  background-position: -288px -576px;
+}
+.openmoji-E244 {
+  background-position: -360px -576px;
+}
+.openmoji-E245 {
+  background-position: -432px -576px;
+}
+.openmoji-E246 {
+  background-position: -504px -576px;
+}
+.openmoji-E247 {
+  background-position: -0px -648px;
+}
+.openmoji-E248 {
+  background-position: -72px -648px;
+}
+.openmoji-E249 {
+  background-position: -144px -648px;
+}
+.openmoji-E24A {
+  background-position: -216px -648px;
+}
+.openmoji-E24B {
+  background-position: -288px -648px;
+}
+.openmoji-E24C {
+  background-position: -360px -648px;
+}
+.openmoji-E24D {
+  background-position: -432px -648px;
+}
+.openmoji-E24E {
+  background-position: -504px -648px;
+}
+.openmoji-E24F {
+  background-position: -0px -720px;
+}
+.openmoji-E250 {
+  background-position: -72px -720px;
+}
+.openmoji-E251 {
+  background-position: -144px -720px;
+}
+.openmoji-E252 {
+  background-position: -216px -720px;
+}
+.openmoji-E253 {
+  background-position: -288px -720px;
+}
+.openmoji-E254 {
+  background-position: -360px -720px;
+}
+.openmoji-E255 {
+  background-position: -432px -720px;
+}
+.openmoji-E256 {
+  background-position: -504px -720px;
+}
+.openmoji-E257 {
+  background-position: -0px -792px;
+}
+.openmoji-E258 {
+  background-position: -72px -792px;
+}
+.openmoji-E259 {
+  background-position: -144px -792px;
+}
+.openmoji-E25A {
+  background-position: -216px -792px;
+}
+.openmoji-E25B {
+  background-position: -288px -792px;
+}
+.openmoji-E25C {
+  background-position: -360px -792px;
+}
+.openmoji-E25D {
+  background-position: -432px -792px;
+}
+.openmoji-E25E {
+  background-position: -504px -792px;
+}
+.openmoji-E25F {
+  background-position: -0px -864px;
+}
+.openmoji-E260 {
+  background-position: -72px -864px;
+}
+.openmoji-E261 {
+  background-position: -144px -864px;
+}
+.openmoji-E262 {
+  background-position: -216px -864px;
+}
+.openmoji-E263 {
+  background-position: -288px -864px;
+}
+.openmoji-E264 {
+  background-position: -360px -864px;
+}
+.openmoji-E265 {
+  background-position: -432px -864px;
+}
+.openmoji-E266 {
+  background-position: -504px -864px;
+}
+.openmoji-E267 {
+  background-position: -0px -936px;
+}
+.openmoji-E268 {
+  background-position: -72px -936px;
+}
+.openmoji-E269 {
+  background-position: -144px -936px;
+}
