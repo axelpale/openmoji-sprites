@@ -11,12 +11,12 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 * [:octocat: extras-openmoji 72x72](#octocat-extras-openmoji-72x72)
 * [ℹ about](#-about)
 
-## 😀 smileys-emotion 72x72
+## 😀 smileys-emotion
 
 [<img src="png/smileys-emotion.png" width="180">](png/smileys-emotion.png)
 
 <details>
-  <summary><strong>PNG sheets</strong></summary>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
   Merged image: [png/smileys-emotion.png](png/smileys-emotion.png)<br>
   HTML image map: [png/smileys-emotion.html](png/smileys-emotion.html)<br>
