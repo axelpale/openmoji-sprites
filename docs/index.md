@@ -8,8 +8,8 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 * [🎃 activities 72x72](#-activities-72x72)
 * [👓 objects 72x72](#-objects-72x72)
 * [🏧 symbols 72x72](#-symbols-72x72)
-* [:octocat: extras-openmoji 72x72](#octocat-extras-openmoji-72x72)
-* [ℹ about](#-about)
+* [🦄 extras-openmoji 72x72](#-extras-openmoji-72x72)
+* [ℹ about](#ℹ-about)
 
 ## 😀 smileys-emotion 72x72
 
