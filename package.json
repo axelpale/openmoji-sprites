@@ -16,7 +16,7 @@
     "url": "git://github.com/axelpale/openmoji-sprites.git"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node generate.js",
     "lint": "standard '**/*.js' && echo OK",
     "test": "npm run lint"
   },
