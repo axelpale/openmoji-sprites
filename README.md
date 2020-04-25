@@ -1,5 +1,5 @@
 # openmoji-sprites
 
-Production-ready sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis.
+Production-ready sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis available at [axelpale.github.io/openmoji-sprites](https://axelpale.github.io/openmoji-sprites)
 
-See [axelpale.github.io/openmoji-sprites](https://axelpale.github.io/openmoji-sprites) for the available sprite sheets.
+![Fruits](docs/fruits-sample.png)

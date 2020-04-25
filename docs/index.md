@@ -1,7 +1,7 @@
 This project is a work-in-progress attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 * [😀 smileys-emotion 72x72](#-smileys-emotion-72x72)
-* [👋 people-body 72x72)](#-people-body-72x72)
+* [👋 people-body 72x72](#-people-body-72x72)
 * [🐵 animals-nature 72x72](#-animals-nature-72x72)
 * [🍇 food-drink 72x72](#-food-drink-72x72)
 * [🌍 travel-places 72x72](#-travel-places-72x72)
