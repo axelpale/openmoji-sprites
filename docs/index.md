@@ -33,7 +33,7 @@ This project is a work-in-progress attempt to create a practical set of sprite s
   CSS sprite sheet: [svg/smileys-emotion.css](svg/smileys-emotion.css)<br>
   CSS sprite example: [svg/smileys-emotion-css.html](svg/smileys-emotion-css.html)<br>
   Custom JSON: [svg/smileys-emotion.json](svg/smileys-emotion.json)
-</details>
+</details><br>
 
 [<img src="png/smileys-emotion-1.png" width="180">](png/smileys-emotion-1.png)
 
