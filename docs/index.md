@@ -167,7 +167,7 @@ CSS sprite example: [png/symbols-1-css.html](png/symbols-1-css.html)<br>
 Custom JSON: [png/symbols-1.json](png/symbols-1.json)
 
 
-## :octocat: extras-openmoji 72x72
+## 🦄 extras-openmoji 72x72
 
 [<img src="png/extras-openmoji.png" width="180">](png/extras-openmoji.png)
 
