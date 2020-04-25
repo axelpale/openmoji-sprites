@@ -16,7 +16,8 @@
     "url": "git://github.com/axelpale/openmoji-sprites.git"
   },
   "scripts": {
-    "start": "node generate.js",
+    "start": "npm run generate",
+    "generate": "node generate.js",
     "lint": "standard '**/*.js' && echo OK",
     "test": "npm run lint"
   },
@@ -30,6 +31,6 @@
   },
   "dependencies": {
     "async": "^3.2.0",
-    "openmoji-spritemap-generator": "^1.1.1"
+    "openmoji-spritemap-generator": "^2.0.0"
   }
 }
