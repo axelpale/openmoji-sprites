@@ -18,11 +18,11 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 <details>
   <summary><strong>PNG 72px sheets</strong></summary>
 
-  Merged image: [png/smileys-emotion.png](png/smileys-emotion.png)<br>
-  HTML image map: [png/smileys-emotion.html](png/smileys-emotion.html)<br>
-  CSS sprite sheet: [png/smileys-emotion.css](png/smileys-emotion.css)<br>
-  CSS sprite example: [png/smileys-emotion-css.html](png/smileys-emotion-css.html)<br>
-  Custom JSON: [png/smileys-emotion.json](png/smileys-emotion.json)
+  Merged image: <a href="png/smileys-emotion.png">smileys-emotion.png</a><br>
+  HTML image map: <a href="png/smileys-emotion.html">smileys-emotion.html</a><br>
+  CSS sprite sheet: <a href="png/smileys-emotion.css">smileys-emotion.css</a><br>
+  CSS sprite example: <a href="png/smileys-emotion-css.html">smileys-emotion-css.html</a><br>
+  Custom JSON: <a href="png/smileys-emotion.json">smileys-emotion.json</a>
 </details>
 
 <details>
