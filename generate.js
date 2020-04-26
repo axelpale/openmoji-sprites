@@ -9,13 +9,9 @@ const generateIndex = require('./lib/htmlIndex')
 const path = require('path')
 const fs = require('fs')
 
-// Filter out those with long hexcode, like skin tones.
-// TODO include skin tones and other variants in some way.
-const shortMojis = mojis.filter(moji => moji.hexcode.length <= 5)
-
 // Group emojis by their group name into an object.
 // Use the group names as keys.
-const mojiGroups = shortMojis.reduce((acc, moji) => {
+const mojiGroups = mojis.reduce((acc, moji) => {
   const groupName = moji.group
   if (!acc[groupName]) {
     acc[groupName] = []
@@ -23,11 +19,6 @@ const mojiGroups = shortMojis.reduce((acc, moji) => {
   acc[groupName].push(moji)
   return acc
 }, {})
-
-// Limit all groups to 8 * 16 emojis to avoid bus error 10.
-// Object.keys(mojiGroups).forEach(groupName => {
-//   mojiGroups[groupName] = mojiGroups[groupName].slice(0, 128)
-// })
 
 // Chop sheets in N emojis
 const COLUMNS = 8
