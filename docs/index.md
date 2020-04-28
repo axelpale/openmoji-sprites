@@ -1,14 +1,20 @@
-This project is a work-in-progress attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+# [openmoji-sprites](https://axelpale.github.io/openmoji-sprites/)
 
-* [😀 smileys-emotion 72x72](#-smileys-emotion-72x72)
-* [👋 people-body 72x72](#-people-body-72x72)
-* [🐵 animals-nature 72x72](#-animals-nature-72x72)
-* [🍇 food-drink 72x72](#-food-drink-72x72)
-* [🌍 travel-places 72x72](#-travel-places-72x72)
-* [🎃 activities 72x72](#-activities-72x72)
-* [👓 objects 72x72](#-objects-72x72)
-* [🏧 symbols 72x72](#-symbols-72x72)
-* [🦄 extras-openmoji 72x72](#-extras-openmoji-72x72)
+This project is a work-in-progress attempt to create a practical set of 
+sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets 
+presented here were generated with 
+[axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) 
+and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+* [😀 smileys-emotion](#-smileys-emotion)
+* [👋 people-body](#-people-body)
+* [🐵 animals-nature](#-animals-nature)
+* [🍇 food-drink](#-food-drink)
+* [🌍 travel-places](#-travel-places)
+* [🎃 activities](#-activities)
+* [👓 objects](#-objects)
+* [🏧 symbols](#-symbols)
+* [🦄 extras-openmoji](#-extras-openmoji)
 * [ℹ about](#ℹ-about)
 
 ## 😀 smileys-emotion
@@ -27,164 +33,359 @@ This project is a work-in-progress attempt to create a practical set of sprite s
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-
-  Merged image: [svg/smileys-emotion.svg](svg/smileys-emotion.svg)<br>
-  HTML image map: [svg/smileys-emotion.html](svg/smileys-emotion.html)<br>
-  CSS sprite sheet: [svg/smileys-emotion.css](svg/smileys-emotion.css)<br>
-  CSS sprite example: [svg/smileys-emotion-css.html](svg/smileys-emotion-css.html)<br>
-  Custom JSON: [svg/smileys-emotion.json](svg/smileys-emotion.json)
-</details><br>
+  
+  Merged image: <a href="svg/smileys-emotion.svg">smileys-emotion.svg</a><br>
+  HTML image map: <a href="svg/smileys-emotion.html">smileys-emotion.html</a><br>
+  CSS sprite sheet: <a href="svg/smileys-emotion.css">smileys-emotion.css</a><br>
+  CSS sprite example: <a href="svg/smileys-emotion-css.html">smileys-emotion-css.html</a><br>
+  Custom JSON: <a href="svg/smileys-emotion.json">smileys-emotion.json</a>
+</details><br></br>
 
 [<img src="png/smileys-emotion-1.png" width="180">](png/smileys-emotion-1.png)
 
 <details>
   <summary><strong>PNG 72px sheets</strong></summary>
 
-  Merged image: [png/smileys-emotion-1.png](png/smileys-emotion-1.png)<br>
-  HTML image map: [png/smileys-emotion-1.html](png/smileys-emotion-1.html)<br>
-  CSS sprite sheet: [png/smileys-emotion-1.css](png/smileys-emotion-1.css)<br>
-  CSS sprite example: [png/smileys-emotion-1-css.html](png/smileys-emotion-1-css.html)<br>
-  Custom JSON: [png/smileys-emotion-1.json](png/smileys-emotion-1.json)
+  Merged image: <a href="png/smileys-emotion-1.png">smileys-emotion-1.png</a><br>
+  HTML image map: <a href="png/smileys-emotion-1.html">smileys-emotion-1.html</a><br>
+  CSS sprite sheet: <a href="png/smileys-emotion-1.css">smileys-emotion-1.css</a><br>
+  CSS sprite example: <a href="png/smileys-emotion-1-css.html">smileys-emotion-1-css.html</a><br>
+  Custom JSON: <a href="png/smileys-emotion-1.json">smileys-emotion-1.json</a>
 </details>
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/smileys-emotion-1.svg">smileys-emotion-1.svg</a><br>
+  HTML image map: <a href="svg/smileys-emotion-1.html">smileys-emotion-1.html</a><br>
+  CSS sprite sheet: <a href="svg/smileys-emotion-1.css">smileys-emotion-1.css</a><br>
+  CSS sprite example: <a href="svg/smileys-emotion-1-css.html">smileys-emotion-1-css.html</a><br>
+  Custom JSON: <a href="svg/smileys-emotion-1.json">smileys-emotion-1.json</a>
+</details><br></br>
 
-  Merged image: [svg/smileys-emotion-1.svg](svg/smileys-emotion-1.svg)<br>
-  HTML image map: [svg/smileys-emotion-1.html](svg/smileys-emotion-1.html)<br>
-  CSS sprite sheet: [svg/smileys-emotion-1.css](svg/smileys-emotion-1.css)<br>
-  CSS sprite example: [svg/smileys-emotion-1-css.html](svg/smileys-emotion-1-css.html)<br>
-  Custom JSON: [svg/smileys-emotion-1.json](svg/smileys-emotion-1.json)
-</details>
-
-
-## 👋 people-body 72x72
+## 👋 people-body
 
 [<img src="png/people-body.png" width="180">](png/people-body.png)
 
-Merged image: [png/people-body.png](png/people-body.png)<br>
-HTML image map: [png/people-body.html](png/people-body.html)<br>
-CSS sprite sheet: [png/people-body.css](png/people-body.css)<br>
-CSS sprite example: [png/people-body-css.html](png/people-body-css.html)<br>
-Custom JSON: [png/people-body.json](png/people-body.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: <a href="png/people-body.png">people-body.png</a><br>
+  HTML image map: <a href="png/people-body.html">people-body.html</a><br>
+  CSS sprite sheet: <a href="png/people-body.css">people-body.css</a><br>
+  CSS sprite example: <a href="png/people-body-css.html">people-body-css.html</a><br>
+  Custom JSON: <a href="png/people-body.json">people-body.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/people-body.svg">people-body.svg</a><br>
+  HTML image map: <a href="svg/people-body.html">people-body.html</a><br>
+  CSS sprite sheet: <a href="svg/people-body.css">people-body.css</a><br>
+  CSS sprite example: <a href="svg/people-body-css.html">people-body-css.html</a><br>
+  Custom JSON: <a href="svg/people-body.json">people-body.json</a>
+</details><br></br>
 
 [<img src="png/people-body-1.png" width="180">](png/people-body-1.png)
 
-Merged image: [png/people-body-1.png](png/people-body-1.png)<br>
-HTML image map: [png/people-body-1.html](png/people-body-1.html)<br>
-CSS sprite sheet: [png/people-body-1.css](png/people-body-1.css)<br>
-CSS sprite example: [png/people-body-1-css.html](png/people-body-1-css.html)<br>
-Custom JSON: [png/people-body-1.json](png/people-body-1.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/people-body-1.png">people-body-1.png</a><br>
+  HTML image map: <a href="png/people-body-1.html">people-body-1.html</a><br>
+  CSS sprite sheet: <a href="png/people-body-1.css">people-body-1.css</a><br>
+  CSS sprite example: <a href="png/people-body-1-css.html">people-body-1-css.html</a><br>
+  Custom JSON: <a href="png/people-body-1.json">people-body-1.json</a>
+</details>
 
-## 🐵 animals-nature 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/people-body-1.svg">people-body-1.svg</a><br>
+  HTML image map: <a href="svg/people-body-1.html">people-body-1.html</a><br>
+  CSS sprite sheet: <a href="svg/people-body-1.css">people-body-1.css</a><br>
+  CSS sprite example: <a href="svg/people-body-1-css.html">people-body-1-css.html</a><br>
+  Custom JSON: <a href="svg/people-body-1.json">people-body-1.json</a>
+</details><br></br>
+
+## 🐵 animals-nature
 
 [<img src="png/animals-nature.png" width="180">](png/animals-nature.png)
 
-Merged image: [png/animals-nature.png](png/animals-nature.png)<br>
-HTML image map: [png/animals-nature.html](png/animals-nature.html)<br>
-CSS sprite sheet: [png/animals-nature.css](png/animals-nature.css)<br>
-CSS sprite example: [png/animals-nature-css.html](png/animals-nature-css.html)<br>
-Custom JSON: [png/animals-nature.json](png/animals-nature.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/animals-nature.png">animals-nature.png</a><br>
+  HTML image map: <a href="png/animals-nature.html">animals-nature.html</a><br>
+  CSS sprite sheet: <a href="png/animals-nature.css">animals-nature.css</a><br>
+  CSS sprite example: <a href="png/animals-nature-css.html">animals-nature-css.html</a><br>
+  Custom JSON: <a href="png/animals-nature.json">animals-nature.json</a>
+</details>
 
-## 🍇 food-drink 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/animals-nature.svg">animals-nature.svg</a><br>
+  HTML image map: <a href="svg/animals-nature.html">animals-nature.html</a><br>
+  CSS sprite sheet: <a href="svg/animals-nature.css">animals-nature.css</a><br>
+  CSS sprite example: <a href="svg/animals-nature-css.html">animals-nature-css.html</a><br>
+  Custom JSON: <a href="svg/animals-nature.json">animals-nature.json</a>
+</details><br></br>
+
+[<img src="png/animals-nature-1.png" width="180">](png/animals-nature-1.png)
+
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: <a href="png/animals-nature-1.png">animals-nature-1.png</a><br>
+  HTML image map: <a href="png/animals-nature-1.html">animals-nature-1.html</a><br>
+  CSS sprite sheet: <a href="png/animals-nature-1.css">animals-nature-1.css</a><br>
+  CSS sprite example: <a href="png/animals-nature-1-css.html">animals-nature-1-css.html</a><br>
+  Custom JSON: <a href="png/animals-nature-1.json">animals-nature-1.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/animals-nature-1.svg">animals-nature-1.svg</a><br>
+  HTML image map: <a href="svg/animals-nature-1.html">animals-nature-1.html</a><br>
+  CSS sprite sheet: <a href="svg/animals-nature-1.css">animals-nature-1.css</a><br>
+  CSS sprite example: <a href="svg/animals-nature-1-css.html">animals-nature-1-css.html</a><br>
+  Custom JSON: <a href="svg/animals-nature-1.json">animals-nature-1.json</a>
+</details><br></br>
+
+## 🍇 food-drink
 
 [<img src="png/food-drink.png" width="180">](png/food-drink.png)
 
-Merged image: [png/food-drink.png](png/food-drink.png)<br>
-HTML image map: [png/food-drink.html](png/food-drink.html)<br>
-CSS sprite sheet: [png/food-drink.css](png/food-drink.css)<br>
-CSS sprite example: [png/food-drink-css.html](png/food-drink-css.html)<br>
-Custom JSON: [png/food-drink.json](png/food-drink.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/food-drink.png">food-drink.png</a><br>
+  HTML image map: <a href="png/food-drink.html">food-drink.html</a><br>
+  CSS sprite sheet: <a href="png/food-drink.css">food-drink.css</a><br>
+  CSS sprite example: <a href="png/food-drink-css.html">food-drink-css.html</a><br>
+  Custom JSON: <a href="png/food-drink.json">food-drink.json</a>
+</details>
 
-## 🌍 travel-places 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/food-drink.svg">food-drink.svg</a><br>
+  HTML image map: <a href="svg/food-drink.html">food-drink.html</a><br>
+  CSS sprite sheet: <a href="svg/food-drink.css">food-drink.css</a><br>
+  CSS sprite example: <a href="svg/food-drink-css.html">food-drink-css.html</a><br>
+  Custom JSON: <a href="svg/food-drink.json">food-drink.json</a>
+</details><br></br>
+
+## 🌍 travel-places
 
 [<img src="png/travel-places.png" width="180">](png/travel-places.png)
 
-Merged image: [png/travel-places.png](png/travel-places.png)<br>
-HTML image map: [png/travel-places.html](png/travel-places.html)<br>
-CSS sprite sheet: [png/travel-places.css](png/travel-places.css)<br>
-CSS sprite example: [png/travel-places-css.html](png/travel-places-css.html)<br>
-Custom JSON: [png/travel-places.json](png/travel-places.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: <a href="png/travel-places.png">travel-places.png</a><br>
+  HTML image map: <a href="png/travel-places.html">travel-places.html</a><br>
+  CSS sprite sheet: <a href="png/travel-places.css">travel-places.css</a><br>
+  CSS sprite example: <a href="png/travel-places-css.html">travel-places-css.html</a><br>
+  Custom JSON: <a href="png/travel-places.json">travel-places.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/travel-places.svg">travel-places.svg</a><br>
+  HTML image map: <a href="svg/travel-places.html">travel-places.html</a><br>
+  CSS sprite sheet: <a href="svg/travel-places.css">travel-places.css</a><br>
+  CSS sprite example: <a href="svg/travel-places-css.html">travel-places-css.html</a><br>
+  Custom JSON: <a href="svg/travel-places.json">travel-places.json</a>
+</details><br></br>
 
 [<img src="png/travel-places-1.png" width="180">](png/travel-places-1.png)
 
-Merged image: [png/travel-places-1.png](png/travel-places-1.png)<br>
-HTML image map: [png/travel-places-1.html](png/travel-places-1.html)<br>
-CSS sprite sheet: [png/travel-places-1.css](png/travel-places-1.css)<br>
-CSS sprite example: [png/travel-places-1-css.html](png/travel-places-1-css.html)<br>
-Custom JSON: [png/travel-places-1.json](png/travel-places-1.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/travel-places-1.png">travel-places-1.png</a><br>
+  HTML image map: <a href="png/travel-places-1.html">travel-places-1.html</a><br>
+  CSS sprite sheet: <a href="png/travel-places-1.css">travel-places-1.css</a><br>
+  CSS sprite example: <a href="png/travel-places-1-css.html">travel-places-1-css.html</a><br>
+  Custom JSON: <a href="png/travel-places-1.json">travel-places-1.json</a>
+</details>
 
-## 🎃 activities 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/travel-places-1.svg">travel-places-1.svg</a><br>
+  HTML image map: <a href="svg/travel-places-1.html">travel-places-1.html</a><br>
+  CSS sprite sheet: <a href="svg/travel-places-1.css">travel-places-1.css</a><br>
+  CSS sprite example: <a href="svg/travel-places-1-css.html">travel-places-1-css.html</a><br>
+  Custom JSON: <a href="svg/travel-places-1.json">travel-places-1.json</a>
+</details><br></br>
+
+## 🎃 activities
 
 [<img src="png/activities.png" width="180">](png/activities.png)
 
-Merged image: [png/activities.png](png/activities.png)<br>
-HTML image map: [png/activities.html](png/activities.html)<br>
-CSS sprite sheet: [png/activities.css](png/activities.css)<br>
-CSS sprite example: [png/activities-css.html](png/activities-css.html)<br>
-Custom JSON: [png/activities.json](png/activities.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/activities.png">activities.png</a><br>
+  HTML image map: <a href="png/activities.html">activities.html</a><br>
+  CSS sprite sheet: <a href="png/activities.css">activities.css</a><br>
+  CSS sprite example: <a href="png/activities-css.html">activities-css.html</a><br>
+  Custom JSON: <a href="png/activities.json">activities.json</a>
+</details>
 
-## 👓 objects 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/activities.svg">activities.svg</a><br>
+  HTML image map: <a href="svg/activities.html">activities.html</a><br>
+  CSS sprite sheet: <a href="svg/activities.css">activities.css</a><br>
+  CSS sprite example: <a href="svg/activities-css.html">activities-css.html</a><br>
+  Custom JSON: <a href="svg/activities.json">activities.json</a>
+</details><br></br>
+
+## 👓 objects
 
 [<img src="png/objects.png" width="180">](png/objects.png)
 
-Merged image: [png/objects.png](png/objects.png)<br>
-HTML image map: [png/objects.html](png/objects.html)<br>
-CSS sprite sheet: [png/objects.css](png/objects.css)<br>
-CSS sprite example: [png/objects-css.html](png/objects-css.html)<br>
-Custom JSON: [png/objects.json](png/objects.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: <a href="png/objects.png">objects.png</a><br>
+  HTML image map: <a href="png/objects.html">objects.html</a><br>
+  CSS sprite sheet: <a href="png/objects.css">objects.css</a><br>
+  CSS sprite example: <a href="png/objects-css.html">objects-css.html</a><br>
+  Custom JSON: <a href="png/objects.json">objects.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/objects.svg">objects.svg</a><br>
+  HTML image map: <a href="svg/objects.html">objects.html</a><br>
+  CSS sprite sheet: <a href="svg/objects.css">objects.css</a><br>
+  CSS sprite example: <a href="svg/objects-css.html">objects-css.html</a><br>
+  Custom JSON: <a href="svg/objects.json">objects.json</a>
+</details><br></br>
 
 [<img src="png/objects-1.png" width="180">](png/objects-1.png)
 
-Merged image: [png/objects-1.png](png/objects-1.png)<br>
-HTML image map: [png/objects-1.html](png/objects-1.html)<br>
-CSS sprite sheet: [png/objects-1.css](png/objects-1.css)<br>
-CSS sprite example: [png/objects-1-css.html](png/objects-1-css.html)<br>
-Custom JSON: [png/objects-1.json](png/objects-1.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/objects-1.png">objects-1.png</a><br>
+  HTML image map: <a href="png/objects-1.html">objects-1.html</a><br>
+  CSS sprite sheet: <a href="png/objects-1.css">objects-1.css</a><br>
+  CSS sprite example: <a href="png/objects-1-css.html">objects-1-css.html</a><br>
+  Custom JSON: <a href="png/objects-1.json">objects-1.json</a>
+</details>
 
-## 🏧 symbols 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/objects-1.svg">objects-1.svg</a><br>
+  HTML image map: <a href="svg/objects-1.html">objects-1.html</a><br>
+  CSS sprite sheet: <a href="svg/objects-1.css">objects-1.css</a><br>
+  CSS sprite example: <a href="svg/objects-1-css.html">objects-1-css.html</a><br>
+  Custom JSON: <a href="svg/objects-1.json">objects-1.json</a>
+</details><br></br>
+
+## 🏧 symbols
 
 [<img src="png/symbols.png" width="180">](png/symbols.png)
 
-Merged image: [png/symbols.png](png/symbols.png)<br>
-HTML image map: [png/symbols.html](png/symbols.html)<br>
-CSS sprite sheet: [png/symbols.css](png/symbols.css)<br>
-CSS sprite example: [png/symbols-css.html](png/symbols-css.html)<br>
-Custom JSON: [png/symbols.json](png/symbols.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: <a href="png/symbols.png">symbols.png</a><br>
+  HTML image map: <a href="png/symbols.html">symbols.html</a><br>
+  CSS sprite sheet: <a href="png/symbols.css">symbols.css</a><br>
+  CSS sprite example: <a href="png/symbols-css.html">symbols-css.html</a><br>
+  Custom JSON: <a href="png/symbols.json">symbols.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/symbols.svg">symbols.svg</a><br>
+  HTML image map: <a href="svg/symbols.html">symbols.html</a><br>
+  CSS sprite sheet: <a href="svg/symbols.css">symbols.css</a><br>
+  CSS sprite example: <a href="svg/symbols-css.html">symbols-css.html</a><br>
+  Custom JSON: <a href="svg/symbols.json">symbols.json</a>
+</details><br></br>
 
 [<img src="png/symbols-1.png" width="180">](png/symbols-1.png)
 
-Merged image: [png/symbols-1.png](png/symbols-1.png)<br>
-HTML image map: [png/symbols-1.html](png/symbols-1.html)<br>
-CSS sprite sheet: [png/symbols-1.css](png/symbols-1.css)<br>
-CSS sprite example: [png/symbols-1-css.html](png/symbols-1-css.html)<br>
-Custom JSON: [png/symbols-1.json](png/symbols-1.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/symbols-1.png">symbols-1.png</a><br>
+  HTML image map: <a href="png/symbols-1.html">symbols-1.html</a><br>
+  CSS sprite sheet: <a href="png/symbols-1.css">symbols-1.css</a><br>
+  CSS sprite example: <a href="png/symbols-1-css.html">symbols-1-css.html</a><br>
+  Custom JSON: <a href="png/symbols-1.json">symbols-1.json</a>
+</details>
 
-## 🦄 extras-openmoji 72x72
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/symbols-1.svg">symbols-1.svg</a><br>
+  HTML image map: <a href="svg/symbols-1.html">symbols-1.html</a><br>
+  CSS sprite sheet: <a href="svg/symbols-1.css">symbols-1.css</a><br>
+  CSS sprite example: <a href="svg/symbols-1-css.html">symbols-1-css.html</a><br>
+  Custom JSON: <a href="svg/symbols-1.json">symbols-1.json</a>
+</details><br></br>
+
+## 🦄 extras-openmoji
 
 [<img src="png/extras-openmoji.png" width="180">](png/extras-openmoji.png)
 
-Merged image: [png/extras-openmoji.png](png/extras-openmoji.png)<br>
-HTML image map: [png/extras-openmoji.html](png/extras-openmoji.html)<br>
-CSS sprite sheet: [png/extras-openmoji.css](png/extras-openmoji.css)<br>
-CSS sprite example: [png/extras-openmoji-css.html](png/extras-openmoji-css.html)<br>
-Custom JSON: [png/extras-openmoji.json](png/extras-openmoji.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
+
+  Merged image: <a href="png/extras-openmoji.png">extras-openmoji.png</a><br>
+  HTML image map: <a href="png/extras-openmoji.html">extras-openmoji.html</a><br>
+  CSS sprite sheet: <a href="png/extras-openmoji.css">extras-openmoji.css</a><br>
+  CSS sprite example: <a href="png/extras-openmoji-css.html">extras-openmoji-css.html</a><br>
+  Custom JSON: <a href="png/extras-openmoji.json">extras-openmoji.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/extras-openmoji.svg">extras-openmoji.svg</a><br>
+  HTML image map: <a href="svg/extras-openmoji.html">extras-openmoji.html</a><br>
+  CSS sprite sheet: <a href="svg/extras-openmoji.css">extras-openmoji.css</a><br>
+  CSS sprite example: <a href="svg/extras-openmoji-css.html">extras-openmoji-css.html</a><br>
+  Custom JSON: <a href="svg/extras-openmoji.json">extras-openmoji.json</a>
+</details><br></br>
 
 [<img src="png/extras-openmoji-1.png" width="180">](png/extras-openmoji-1.png)
 
-Merged image: [png/extras-openmoji-1.png](png/extras-openmoji-1.png)<br>
-HTML image map: [png/extras-openmoji-1.html](png/extras-openmoji-1.html)<br>
-CSS sprite sheet: [png/extras-openmoji-1.css](png/extras-openmoji-1.css)<br>
-CSS sprite example: [png/extras-openmoji-1-css.html](png/extras-openmoji-1-css.html)<br>
-Custom JSON: [png/extras-openmoji-1.json](png/extras-openmoji-1.json)
+<details>
+  <summary><strong>PNG 72px sheets</strong></summary>
 
+  Merged image: <a href="png/extras-openmoji-1.png">extras-openmoji-1.png</a><br>
+  HTML image map: <a href="png/extras-openmoji-1.html">extras-openmoji-1.html</a><br>
+  CSS sprite sheet: <a href="png/extras-openmoji-1.css">extras-openmoji-1.css</a><br>
+  CSS sprite example: <a href="png/extras-openmoji-1-css.html">extras-openmoji-1-css.html</a><br>
+  Custom JSON: <a href="png/extras-openmoji-1.json">extras-openmoji-1.json</a>
+</details>
+
+<details>
+  <summary><strong>SVG sheets</strong></summary>
+  
+  Merged image: <a href="svg/extras-openmoji-1.svg">extras-openmoji-1.svg</a><br>
+  HTML image map: <a href="svg/extras-openmoji-1.html">extras-openmoji-1.html</a><br>
+  CSS sprite sheet: <a href="svg/extras-openmoji-1.css">extras-openmoji-1.css</a><br>
+  CSS sprite example: <a href="svg/extras-openmoji-1-css.html">extras-openmoji-1-css.html</a><br>
+  Custom JSON: <a href="svg/extras-openmoji-1.json">extras-openmoji-1.json</a>
+</details><br></br>
 
 ## ℹ About
 
