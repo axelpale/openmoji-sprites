@@ -1,3 +1,10 @@
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
+<style>
+  body {
+    font-family: "Source Sans Pro", sans-serif;
+  }
+</style>
+
 This project is a work-in-progress attempt to create a practical set of sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets presented here were generated with [axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 * [😀 smileys-emotion 72x72](#-smileys-emotion-72x72)
