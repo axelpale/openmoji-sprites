@@ -6,6 +6,7 @@ const _ = require('lodash')
 const asyn = require('async')
 const generate = require('openmoji-spritemap-generator')
 const generateIndex = require('./lib/htmlIndex')
+const generateIndexMd = require('./lib/generate-index-md')
 const path = require('path')
 const fs = require('fs')
 
@@ -72,3 +73,5 @@ asyn.eachSeries(groupArray, (group, next) => {
 
   console.log('Finished successfully.')
 })
+
+generateIndexMd()
