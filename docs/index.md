@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
 <style>
-  body {
+  .markdown-body {
     font-family: "Source Sans Pro", sans-serif;
   }
 </style>
