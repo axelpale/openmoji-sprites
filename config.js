@@ -14,6 +14,7 @@ module.exports = {
   ],
   groups: {
     'smileys-emotion': {
+      icon: '😀',
       sheets: [
         {
           includeSubgroups: [
@@ -37,6 +38,7 @@ module.exports = {
       ]
     },
     'people-body': {
+      icon: '👋',
       sheets: [
         {
           includeSubgroups: [
@@ -61,6 +63,7 @@ module.exports = {
       ]
     },
     'animals-nature': {
+      icon: '🐵',
       sheets: [
         {
           includeSubgroups: [
@@ -77,6 +80,7 @@ module.exports = {
       ]
     },
     'food-drink': {
+      icon: '🍇',
       sheets: [
         {
           includeSubgroups: [
@@ -93,6 +97,7 @@ module.exports = {
       ]
     },
     'travel-places': {
+      icon: '🌍',
       sheets: [
         {
           includeSubgroups: [
@@ -112,6 +117,7 @@ module.exports = {
       ]
     },
     'activities': {
+      icon: '🎃',
       sheets: [
         {
           includeSubgroups: [
@@ -125,6 +131,7 @@ module.exports = {
       ]
     },
     'objects': {
+      icon: '👓',
       sheets: [
         {
           includeSubgroups: [
@@ -151,6 +158,7 @@ module.exports = {
       ]
     },
     'symbols': {
+      icon: '🏧',
       sheets: [
         {
           includeSubgroups: [
@@ -173,6 +181,7 @@ module.exports = {
       ]
     },
     'flags': {
+      icon: '🏁',
       sheets: [
         {
           includeSubgroups: [
@@ -184,6 +193,7 @@ module.exports = {
       ]
     },
     'extras-openmoji': {
+      icon: '🦄',
       sheets: [
         {
           includeSubgroups: [
