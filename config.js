@@ -18,6 +18,7 @@ module.exports = {
       icon: '😀',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'face-smiling',
             'face-affection',
@@ -42,6 +43,7 @@ module.exports = {
       icon: '👋',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'hand-fingers-open',
             'hand-fingers-partial',
@@ -67,6 +69,7 @@ module.exports = {
       icon: '🐵',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'animal-mammal',
             'animal-bird',
@@ -84,6 +87,7 @@ module.exports = {
       icon: '🍇',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'food-fruit',
             'food-vegetable',
@@ -101,6 +105,7 @@ module.exports = {
       icon: '🌍',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'place-map',
             'place-geographic',
@@ -121,6 +126,7 @@ module.exports = {
       icon: '🎃',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'event',
             'award-medal',
@@ -135,6 +141,7 @@ module.exports = {
       icon: '👓',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'clothing',
             'sound',
@@ -162,6 +169,7 @@ module.exports = {
       icon: '🏧',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'transport-sign',
             'warning',
@@ -185,6 +193,7 @@ module.exports = {
       icon: '🏁',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'flag',
             'country-flag',
@@ -197,6 +206,7 @@ module.exports = {
       icon: '🦄',
       sheets: [
         {
+          postfix: '-00',
           includeSubgroups: [
             'animals-nature',
             'brand',
