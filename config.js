@@ -48,17 +48,98 @@ module.exports = {
             'hand-fingers-open',
             'hand-fingers-partial',
             'hand-single-finger',
-            'hand-fingers-closed',
+            'hand-fingers-closed'
+          ]
+        }, {
+          postfix: '-01',
+          includeSubgroups: [
             'hands',
             'hand-prop',
-            'body-parts',
-            'person',
-            'person-gesture',
-            'person-role',
-            'person-fantasy',
-            'person-activity',
-            'person-sport',
-            'person-resting',
+            'body-parts'
+          ]
+        }, {
+          postfix: '-02',
+          includeSubgroups: [
+            'person'
+          ]
+        }, {
+          postfix: '-03',
+          includeSubgroups: [
+            'person-gesture'
+          ]
+        }, {
+          postfix: '-04',
+          includeSubgroups: [
+            'person-role'
+          ],
+          range: {
+            begin: 0,
+            end: 180
+          }
+        }, {
+          postfix: '-05',
+          includeSubgroups: [
+            'person-role'
+          ],
+          range: {
+            begin: 180,
+            end: 360
+          }
+        }, {
+          postfix: '-06',
+          includeSubgroups: [
+            'person-role'
+          ],
+          range: {
+            begin: 360
+          }
+        }, {
+          postfix: '-07',
+          includeSubgroups: [
+            'person-fantasy'
+          ]
+        }, {
+          postfix: '-08',
+          includeSubgroups: [
+            'person-activity'
+          ],
+          range: {
+            begin: 0,
+            end: 120
+          }
+        }, {
+          postfix: '-09',
+          includeSubgroups: [
+            'person-activity'
+          ],
+          range: {
+            begin: 120
+          }
+        }, {
+          postfix: '-10',
+          includeSubgroups: [
+            'person-sport'
+          ],
+          range: {
+            begin: 0,
+            end: 120
+          }
+        }, {
+          postfix: '-11',
+          includeSubgroups: [
+            'person-sport'
+          ],
+          range: {
+            begin: 120
+          }
+        }, {
+          postfix: '-12',
+          includeSubgroups: [
+            'person-resting'
+          ]
+        }, {
+          postfix: '-13',
+          includeSubgroups: [
             'family',
             'person-symbol'
           ]
@@ -112,6 +193,10 @@ module.exports = {
             'place-building',
             'place-religious',
             'place-other',
+          ],
+        }, {
+          postfix: '-01',
+          includeSubgroups: [
             'transport-ground',
             'transport-water',
             'transport-air',
@@ -152,6 +237,10 @@ module.exports = {
             'light-video',
             'book-paper',
             'money',
+          ],
+        }, {
+          postfix: '-01',
+          includeSubgroups: [
             'mail',
             'writing',
             'office',
@@ -177,7 +266,11 @@ module.exports = {
             'religion',
             'zodiac',
             'av-symbol',
-            'gender',
+            'gender'
+          ]
+        }, {
+          postfix: '-01',
+          includeSubgroups: [
             'math',
             'punctuation',
             'currency',
@@ -215,6 +308,10 @@ module.exports = {
             'food-drink',
             'healthcare',
             'interaction',
+          ]
+        }, {
+          postfix: '-01',
+          includeSubgroups: [
             'objects',
             'people',
             'smileys-emotion',
