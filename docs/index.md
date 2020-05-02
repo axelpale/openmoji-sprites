@@ -1,9 +1,17 @@
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
+<style>
+  .markdown-body {
+    font-family: "Source Sans Pro", sans-serif;
+  }
+</style>
+
 # [openmoji-sprites](https://axelpale.github.io/openmoji-sprites/)
 
-This project is a work-in-progress attempt to create a practical set of 
-sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets 
-presented here were generated with 
-[axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator) 
+This project is a work-in-progress attempt to create a practical set of
+sprite sheets for [OpenMoji.org](https://openmoji.org/) emojis. The sprite sheets
+presented here were generated with
+[axelpale/openmoji-spritemap-generator](https://github.com/axelpale/openmoji-spritemap-generator)
 and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 * [😀 smileys-emotion](#-smileys-emotion)
@@ -33,13 +41,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/smileys-emotion.svg">smileys-emotion.svg</a><br>
   HTML image map: <a href="svg/smileys-emotion.html">smileys-emotion.html</a><br>
   CSS sprite sheet: <a href="svg/smileys-emotion.css">smileys-emotion.css</a><br>
   CSS sprite example: <a href="svg/smileys-emotion-css.html">smileys-emotion-css.html</a><br>
   Custom JSON: <a href="svg/smileys-emotion.json">smileys-emotion.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/smileys-emotion-1.png" width="180">](png/smileys-emotion-1.png)
 
@@ -55,13 +63,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/smileys-emotion-1.svg">smileys-emotion-1.svg</a><br>
   HTML image map: <a href="svg/smileys-emotion-1.html">smileys-emotion-1.html</a><br>
   CSS sprite sheet: <a href="svg/smileys-emotion-1.css">smileys-emotion-1.css</a><br>
   CSS sprite example: <a href="svg/smileys-emotion-1-css.html">smileys-emotion-1-css.html</a><br>
   Custom JSON: <a href="svg/smileys-emotion-1.json">smileys-emotion-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 👋 people-body
 
@@ -79,13 +87,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/people-body.svg">people-body.svg</a><br>
   HTML image map: <a href="svg/people-body.html">people-body.html</a><br>
   CSS sprite sheet: <a href="svg/people-body.css">people-body.css</a><br>
   CSS sprite example: <a href="svg/people-body-css.html">people-body-css.html</a><br>
   Custom JSON: <a href="svg/people-body.json">people-body.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/people-body-1.png" width="180">](png/people-body-1.png)
 
@@ -101,13 +109,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/people-body-1.svg">people-body-1.svg</a><br>
   HTML image map: <a href="svg/people-body-1.html">people-body-1.html</a><br>
   CSS sprite sheet: <a href="svg/people-body-1.css">people-body-1.css</a><br>
   CSS sprite example: <a href="svg/people-body-1-css.html">people-body-1-css.html</a><br>
   Custom JSON: <a href="svg/people-body-1.json">people-body-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 🐵 animals-nature
 
@@ -125,13 +133,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/animals-nature.svg">animals-nature.svg</a><br>
   HTML image map: <a href="svg/animals-nature.html">animals-nature.html</a><br>
   CSS sprite sheet: <a href="svg/animals-nature.css">animals-nature.css</a><br>
   CSS sprite example: <a href="svg/animals-nature-css.html">animals-nature-css.html</a><br>
   Custom JSON: <a href="svg/animals-nature.json">animals-nature.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/animals-nature-1.png" width="180">](png/animals-nature-1.png)
 
@@ -147,13 +155,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/animals-nature-1.svg">animals-nature-1.svg</a><br>
   HTML image map: <a href="svg/animals-nature-1.html">animals-nature-1.html</a><br>
   CSS sprite sheet: <a href="svg/animals-nature-1.css">animals-nature-1.css</a><br>
   CSS sprite example: <a href="svg/animals-nature-1-css.html">animals-nature-1-css.html</a><br>
   Custom JSON: <a href="svg/animals-nature-1.json">animals-nature-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 🍇 food-drink
 
@@ -171,13 +179,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/food-drink.svg">food-drink.svg</a><br>
   HTML image map: <a href="svg/food-drink.html">food-drink.html</a><br>
   CSS sprite sheet: <a href="svg/food-drink.css">food-drink.css</a><br>
   CSS sprite example: <a href="svg/food-drink-css.html">food-drink-css.html</a><br>
   Custom JSON: <a href="svg/food-drink.json">food-drink.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 🌍 travel-places
 
@@ -195,13 +203,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/travel-places.svg">travel-places.svg</a><br>
   HTML image map: <a href="svg/travel-places.html">travel-places.html</a><br>
   CSS sprite sheet: <a href="svg/travel-places.css">travel-places.css</a><br>
   CSS sprite example: <a href="svg/travel-places-css.html">travel-places-css.html</a><br>
   Custom JSON: <a href="svg/travel-places.json">travel-places.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/travel-places-1.png" width="180">](png/travel-places-1.png)
 
@@ -217,13 +225,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/travel-places-1.svg">travel-places-1.svg</a><br>
   HTML image map: <a href="svg/travel-places-1.html">travel-places-1.html</a><br>
   CSS sprite sheet: <a href="svg/travel-places-1.css">travel-places-1.css</a><br>
   CSS sprite example: <a href="svg/travel-places-1-css.html">travel-places-1-css.html</a><br>
   Custom JSON: <a href="svg/travel-places-1.json">travel-places-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 🎃 activities
 
@@ -241,13 +249,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/activities.svg">activities.svg</a><br>
   HTML image map: <a href="svg/activities.html">activities.html</a><br>
   CSS sprite sheet: <a href="svg/activities.css">activities.css</a><br>
   CSS sprite example: <a href="svg/activities-css.html">activities-css.html</a><br>
   Custom JSON: <a href="svg/activities.json">activities.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 👓 objects
 
@@ -265,13 +273,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/objects.svg">objects.svg</a><br>
   HTML image map: <a href="svg/objects.html">objects.html</a><br>
   CSS sprite sheet: <a href="svg/objects.css">objects.css</a><br>
   CSS sprite example: <a href="svg/objects-css.html">objects-css.html</a><br>
   Custom JSON: <a href="svg/objects.json">objects.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/objects-1.png" width="180">](png/objects-1.png)
 
@@ -287,13 +295,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/objects-1.svg">objects-1.svg</a><br>
   HTML image map: <a href="svg/objects-1.html">objects-1.html</a><br>
   CSS sprite sheet: <a href="svg/objects-1.css">objects-1.css</a><br>
   CSS sprite example: <a href="svg/objects-1-css.html">objects-1-css.html</a><br>
   Custom JSON: <a href="svg/objects-1.json">objects-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 🏧 symbols
 
@@ -311,13 +319,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/symbols.svg">symbols.svg</a><br>
   HTML image map: <a href="svg/symbols.html">symbols.html</a><br>
   CSS sprite sheet: <a href="svg/symbols.css">symbols.css</a><br>
   CSS sprite example: <a href="svg/symbols-css.html">symbols-css.html</a><br>
   Custom JSON: <a href="svg/symbols.json">symbols.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/symbols-1.png" width="180">](png/symbols-1.png)
 
@@ -333,13 +341,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/symbols-1.svg">symbols-1.svg</a><br>
   HTML image map: <a href="svg/symbols-1.html">symbols-1.html</a><br>
   CSS sprite sheet: <a href="svg/symbols-1.css">symbols-1.css</a><br>
   CSS sprite example: <a href="svg/symbols-1-css.html">symbols-1-css.html</a><br>
   Custom JSON: <a href="svg/symbols-1.json">symbols-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## 🦄 extras-openmoji
 
@@ -357,13 +365,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/extras-openmoji.svg">extras-openmoji.svg</a><br>
   HTML image map: <a href="svg/extras-openmoji.html">extras-openmoji.html</a><br>
   CSS sprite sheet: <a href="svg/extras-openmoji.css">extras-openmoji.css</a><br>
   CSS sprite example: <a href="svg/extras-openmoji-css.html">extras-openmoji-css.html</a><br>
   Custom JSON: <a href="svg/extras-openmoji.json">extras-openmoji.json</a>
-</details><br></br>
+</details><br><br>
 
 [<img src="png/extras-openmoji-1.png" width="180">](png/extras-openmoji-1.png)
 
@@ -379,13 +387,13 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 
 <details>
   <summary><strong>SVG sheets</strong></summary>
-  
+
   Merged image: <a href="svg/extras-openmoji-1.svg">extras-openmoji-1.svg</a><br>
   HTML image map: <a href="svg/extras-openmoji-1.html">extras-openmoji-1.html</a><br>
   CSS sprite sheet: <a href="svg/extras-openmoji-1.css">extras-openmoji-1.css</a><br>
   CSS sprite example: <a href="svg/extras-openmoji-1-css.html">extras-openmoji-1-css.html</a><br>
   Custom JSON: <a href="svg/extras-openmoji-1.json">extras-openmoji-1.json</a>
-</details><br></br>
+</details><br><br>
 
 ## ℹ About
 
