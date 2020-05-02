@@ -3,6 +3,8 @@ target/*
 openmoji-*/
 openmoji.json
 
+dist/
+
 package-lock.json
 
 node_modules

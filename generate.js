@@ -8,6 +8,8 @@ const generate = require('openmoji-spritemap-generator')
 const generateIndexMd = require('./lib/generate-index-md')
 const path = require('path')
 
+const BUILD_DIR = path.join(__dirname, 'dist')
+
 // Group emojis by their group name into an object.
 // Use the group names as keys.
 const mojiGroups = mojis.reduce((acc, moji) => {
@@ -44,7 +46,7 @@ asyn.eachSeries(groupArray, (group, next) => {
     name: group.name + postfix,
     emojis: group.emojis,
     emojiDir: path.join(__dirname, 'openmoji-72x72-color'),
-    targetDir: path.join(__dirname, 'docs', 'png'),
+    targetDir: path.join(BUILD_DIR, 'png'),
     emojiSize: 72,
     columns: COLUMNS
   }, (er) => {
@@ -53,7 +55,7 @@ asyn.eachSeries(groupArray, (group, next) => {
       name: group.name + postfix,
       emojis: group.emojis,
       emojiDir: path.join(__dirname, 'openmoji-svg-color'),
-      targetDir: path.join(__dirname, 'docs', 'svg'),
+      targetDir: path.join(BUILD_DIR, 'svg'),
       emojiSize: 72, // TODO needed with svg?
       columns: COLUMNS // TODO needed with svg?
     }, next)
