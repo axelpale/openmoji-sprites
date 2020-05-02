@@ -1,18 +1,19 @@
 // This runner is meant for customisation and to give an example of
 // how multiple sprite sheets can be created with a single command.
 //
-const mojis = require('./openmoji.json') // TODO require('openmoji')
+const openmojis = require('./openmoji.json') // TODO require('openmoji')
 const _ = require('lodash')
 const asyn = require('async')
 const generate = require('openmoji-spritemap-generator')
 const generateIndexMd = require('./lib/generate-index-md')
+const config = require('./config')
 const path = require('path')
 
 const BUILD_DIR = path.join(__dirname, 'dist')
 
 // Group emojis by their group name into an object.
 // Use the group names as keys.
-const mojiGroups = mojis.reduce((acc, moji) => {
+const mojiGroups = openmojis.reduce((acc, moji) => {
   const groupName = moji.group
   if (!acc[groupName]) {
     acc[groupName] = []
@@ -21,30 +22,45 @@ const mojiGroups = mojis.reduce((acc, moji) => {
   return acc
 }, {})
 
-// Chop sheets in N emojis
+// Select only included groups.
+// Chop the group into sheets defined in the config.
 const COLUMNS = 8
-const CHUNK_SIZE = 16 * COLUMNS
 const chunks = []
-Object.keys(mojiGroups).forEach(groupName => {
+config.includeGroups.forEach(groupName => {
   const group = mojiGroups[groupName]
-  for (let i = 0; i < group.length; i += CHUNK_SIZE) {
-    chunks.push({
-      index: Math.floor(i / CHUNK_SIZE),
-      name: groupName,
-      emojis: group.slice(i, i + CHUNK_SIZE)
+  config.groups[groupName].sheets.forEach((sheet, sheetIndex) => {
+    const subgroupNames = sheet.includeSubgroups
+    let sheetEmojis = group.filter(moji => {
+      return subgroupNames.indexOf(moji.subgroups) > -1
     })
-  }
+    if (sheet.range) {
+      if (sheet.range.end) {
+        sheetEmojis = sheetEmojis.slice(sheet.range.begin, sheet.range.end)
+      } else {
+        sheetEmojis = sheetEmojis.slice(sheet.range.begin)
+      }
+    }
+    const chunk = {
+      index: sheetIndex,
+      name: groupName + '-' + (sheetIndex.toString()).padStart(2, '0'),
+      group: groupName,
+      emojis: sheetEmojis
+    }
+    chunks.push(chunk)
+    console.log('Sheet ' + chunk.name + ' with ' +
+      chunk.emojis.length + ' emojis')
+  })
 })
-const groupArray = _.flatten(chunks)
+const sheetArray = _.flatten(chunks)
 
 // For each group, run sheet generator.
 // Sheet generation is asynchronous operation, thus @caolan/async is used.
-asyn.eachSeries(groupArray, (group, next) => {
-  const postfix = '-' + (group.index.toString()).padStart(2, '0')
+asyn.eachSeries(sheetArray, (sheet, next) => {
+  console.log('### Begin generating ' + sheet.name + ' ###')
   generate({
     mode: 'png',
-    name: group.name + postfix,
-    emojis: group.emojis,
+    name: sheet.name,
+    emojis: sheet.emojis,
     emojiDir: path.join(__dirname, 'openmoji-72x72-color'),
     targetDir: path.join(BUILD_DIR, 'png'),
     emojiSize: 72,
@@ -52,8 +68,8 @@ asyn.eachSeries(groupArray, (group, next) => {
   }, (er) => {
     generate({
       mode: 'svg',
-      name: group.name + postfix,
-      emojis: group.emojis,
+      name: sheet.name,
+      emojis: sheet.emojis,
       emojiDir: path.join(__dirname, 'openmoji-svg-color'),
       targetDir: path.join(BUILD_DIR, 'svg'),
       emojiSize: 72, // TODO needed with svg?
@@ -74,4 +90,4 @@ asyn.eachSeries(groupArray, (group, next) => {
   console.log('Finished successfully.')
 })
 
-generateIndexMd(BUILD_DIR)
+generateIndexMd(BUILD_DIR, config)
