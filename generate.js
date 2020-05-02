@@ -40,7 +40,7 @@ const groupArray = _.flatten(chunks)
 // For each group, run sheet generator.
 // Sheet generation is asynchronous operation, thus @caolan/async is used.
 asyn.eachSeries(groupArray, (group, next) => {
-  const postfix = (group.index > 0) ? '-' + group.index : ''
+  const postfix = '-' + (group.index.toString()).padStart(2, '0')
   generate({
     mode: 'png',
     name: group.name + postfix,
