@@ -10,6 +10,7 @@ module.exports = {
     'activities',
     'objects',
     'symbols',
+    'flags',
     'extras-openmoji'
   ],
   groups: {
