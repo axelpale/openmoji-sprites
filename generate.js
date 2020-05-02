@@ -74,4 +74,4 @@ asyn.eachSeries(groupArray, (group, next) => {
   console.log('Finished successfully.')
 })
 
-generateIndexMd()
+generateIndexMd(BUILD_DIR)
