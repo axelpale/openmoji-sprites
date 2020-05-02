@@ -288,8 +288,28 @@ module.exports = {
         {
           postfix: '-00',
           includeSubgroups: [
-            'flag',
-            'country-flag',
+            'flag'
+          ]
+        }, {
+          postfix: '-01',
+          includeSubgroups: [
+            'country-flag'
+          ],
+          range: {
+            begin: 0,
+            end: 120
+          }
+        }, {
+          postfix: '-02',
+          includeSubgroups: [
+            'country-flag'
+          ],
+          range: {
+            begin: 120
+          }
+        }, {
+          postfix: '-03',
+          includeSubgroups: [
             'subdivision-flag'
           ]
         }
