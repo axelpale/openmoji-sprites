@@ -5,10 +5,8 @@ const mojis = require('./openmoji.json') // TODO require('openmoji')
 const _ = require('lodash')
 const asyn = require('async')
 const generate = require('openmoji-spritemap-generator')
-const generateIndex = require('./lib/htmlIndex')
 const generateIndexMd = require('./lib/generate-index-md')
 const path = require('path')
-const fs = require('fs')
 
 // Group emojis by their group name into an object.
 // Use the group names as keys.

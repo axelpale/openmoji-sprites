@@ -19,6 +19,7 @@
     "start": "npm run generate",
     "generate": "node generate.js",
     "lint": "standard '**/*.js' && echo OK",
+    "lintfix": "standard --fix '**/*.js' && echo OK",
     "test": "npm run lint"
   },
   "author": {
