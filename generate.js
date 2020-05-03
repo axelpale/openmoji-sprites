@@ -24,7 +24,7 @@ const mojiGroups = openmojis.reduce((acc, moji) => {
 
 // Select only included groups.
 // Chop the group into sheets defined in the config.
-const COLUMNS = 8
+const COLUMNS = 16
 const chunks = []
 config.includeGroups.forEach(groupName => {
   const group = mojiGroups[groupName]
