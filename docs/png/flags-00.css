@@ -1,0 +1,34 @@
+.openmoji {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 72px;
+  height: 72px;
+  background-image: url('flags-00.png');
+  background-repeat: no-repeat;
+}
+
+.openmoji-1F3C1 {
+  background-position: -0px -0px;
+}
+.openmoji-1F6A9 {
+  background-position: -72px -0px;
+}
+.openmoji-1F38C {
+  background-position: -144px -0px;
+}
+.openmoji-1F3F4 {
+  background-position: -216px -0px;
+}
+.openmoji-1F3F3 {
+  background-position: -288px -0px;
+}
+.openmoji-1F3F3-FE0F-200D-1F308 {
+  background-position: -360px -0px;
+}
+.openmoji-1F3F3-FE0F-200D-26A7-FE0F {
+  background-position: -432px -0px;
+}
+.openmoji-1F3F4-200D-2620-FE0F {
+  background-position: -504px -0px;
+}
