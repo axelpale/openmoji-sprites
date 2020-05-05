@@ -24,6 +24,21 @@ and are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 * [🦄 extras-openmoji](#-extras-openmoji)
 * [ℹ about](#ℹ-about)
 
+
+## Download
+
+Download all PNG and SVG sprites and their CSS sheets as one package:
+
+> [openmoji-sprites.zip](https://github.com/axelpale/openmoji-sprites/releases/download/2.0.0/openmoji-sprites-v2.0.0.zip)
+
+Alternatively via command line:
+
+    $ wget https://github.com/axelpale/openmoji-sprites/releases/download/2.0.0/openmoji-sprites-v2.0.0.zip
+
+To download a single emoji group, see the emojis and files below.
+
+How to use the files? See the html examples in the package.
+
 ## 😀 smileys-emotion
 
 [<img src="png/smileys-emotion-00.png" width="288">](png/smileys-emotion-00.png)
