@@ -192,8 +192,8 @@ module.exports = {
             'place-geographic',
             'place-building',
             'place-religious',
-            'place-other',
-          ],
+            'place-other'
+          ]
         }, {
           postfix: '-01',
           includeSubgroups: [
@@ -236,8 +236,8 @@ module.exports = {
             'computer',
             'light-video',
             'book-paper',
-            'money',
-          ],
+            'money'
+          ]
         }, {
           postfix: '-01',
           includeSubgroups: [
@@ -327,7 +327,7 @@ module.exports = {
             'emergency',
             'food-drink',
             'healthcare',
-            'interaction',
+            'interaction'
           ]
         }, {
           postfix: '-01',
