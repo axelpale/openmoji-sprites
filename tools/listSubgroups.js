@@ -1,3 +1,5 @@
+// Output a list of subgroups available in the openmoji project.
+// Useful when config.js needs to be updated.
 const mojis = require('../openmoji.json')
 const _ = require('lodash')
 
