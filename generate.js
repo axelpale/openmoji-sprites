@@ -6,6 +6,7 @@ const _ = require('lodash')
 const asyn = require('async')
 const generate = require('openmoji-spritemap-generator')
 const generateIndexMd = require('./lib/generate-index-md')
+const generateSpritesJson = require('./lib/generate-sprites-json')
 const config = require('./config')
 const path = require('path')
 
@@ -91,3 +92,4 @@ asyn.eachSeries(sheetArray, (sheet, next) => {
 })
 
 generateIndexMd(BUILD_DIR, config)
+generateSpritesJson()
