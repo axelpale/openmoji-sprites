@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("smileys-emotion-00.svg") no-repeat;
+	display: inline-block;
+background: url("smileys-emotion-00.svg") no-repeat;
 }
 
 .openmoji-1F4A4 {

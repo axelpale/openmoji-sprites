@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("animals-nature-00.svg") no-repeat;
+	display: inline-block;
+background: url("animals-nature-00.svg") no-repeat;
 }
 
 .openmoji-1F343 {

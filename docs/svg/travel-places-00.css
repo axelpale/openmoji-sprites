@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("travel-places-00.svg") no-repeat;
+	display: inline-block;
+background: url("travel-places-00.svg") no-repeat;
 }
 
 .openmoji-1F3AA {

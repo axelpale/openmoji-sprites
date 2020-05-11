@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("symbols-00.svg") no-repeat;
+	display: inline-block;
+background: url("symbols-00.svg") no-repeat;
 }
 
 .openmoji-26A7 {

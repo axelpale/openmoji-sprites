@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("flags-00.svg") no-repeat;
+	display: inline-block;
+background: url("flags-00.svg") no-repeat;
 }
 
 .openmoji-1F3F4-200D-2620-FE0F {

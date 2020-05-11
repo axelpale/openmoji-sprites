@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("people-body-10.svg") no-repeat;
+	display: inline-block;
+background: url("people-body-10.svg") no-repeat;
 }
 
 .openmoji-1F3CB-1F3FD-200D-2640-FE0F {

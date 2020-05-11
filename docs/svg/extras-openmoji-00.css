@@ -1,5 +1,6 @@
 .openmoji {
-	background: url("extras-openmoji-00.svg") no-repeat;
+	display: inline-block;
+background: url("extras-openmoji-00.svg") no-repeat;
 }
 
 .openmoji-E10D {
