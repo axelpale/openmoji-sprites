@@ -28,11 +28,10 @@
   },
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
-    "standard": "*"
-  },
-  "dependencies": {
+    "standard": "*",
     "async": "^3.2.0",
     "lodash": "^4.17.15",
     "openmoji-spritemap-generator": "^2.1.3"
-  }
+  },
+  "dependencies": {}
 }
