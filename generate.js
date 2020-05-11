@@ -91,5 +91,5 @@ asyn.eachSeries(sheetArray, (sheet, next) => {
   console.log('Finished successfully.')
 })
 
-generateIndexMd(BUILD_DIR, config)
+generateIndexMd()
 generateSpritesJson()
