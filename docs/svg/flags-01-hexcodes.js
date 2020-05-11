@@ -118,5 +118,5 @@ module.exports = [
   '1F1EF-1F1EA',
   '1F1EF-1F1F2',
   '1F1EF-1F1F4',
-  '1F1EF-1F1F5',
+  '1F1EF-1F1F5'
 ]

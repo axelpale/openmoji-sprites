@@ -60,5 +60,5 @@ module.exports = [
   '1F3A1',
   '1F3A2',
   '1F488',
-  '1F3AA',
+  '1F3AA'
 ]

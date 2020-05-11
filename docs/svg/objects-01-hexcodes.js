@@ -101,5 +101,5 @@ module.exports = [
   '1F6AC',
   '26B0',
   '26B1',
-  '1F5FF',
+  '1F5FF'
 ]

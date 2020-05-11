@@ -135,5 +135,5 @@ module.exports = [
   'E10A',
   'E10B',
   'E10C',
-  'E10D',
+  'E10D'
 ]

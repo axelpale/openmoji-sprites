@@ -149,5 +149,5 @@ module.exports = [
   '1F5E8',
   '1F5EF',
   '1F4AD',
-  '1F4A4',
+  '1F4A4'
 ]

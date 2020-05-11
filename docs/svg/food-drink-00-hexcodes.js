@@ -123,5 +123,5 @@ module.exports = [
   '1F374',
   '1F944',
   '1F52A',
-  '1F3FA',
+  '1F3FA'
 ]
