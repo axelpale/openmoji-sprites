@@ -4,13 +4,13 @@ background: url("smileys-emotion-00.svg") no-repeat;
 }
 
 .openmoji-1F4A4 {
-	background-position: 8.333333333333334% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-1F4AD {
-	background-position: 25% 72.72727272727273%;
+	background-position: 8.333333333333334% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -454,7 +454,7 @@ background: url("smileys-emotion-00.svg") no-repeat;
 }
 
 .openmoji-1F628 {
-	background-position: 0 0;
+	background-position: 25% 72.72727272727273%;
 	width: 72px;
 	height: 72px;
 }

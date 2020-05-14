@@ -4,13 +4,13 @@ background: url("flags-02.svg") no-repeat;
 }
 
 .openmoji-1F1FF-1F1FC {
-	background-position: 9.090909090909092% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-1F1FF-1F1F2 {
-	background-position: 72.72727272727273% 45.45454545454545%;
+	background-position: 9.090909090909092% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -418,7 +418,7 @@ background: url("flags-02.svg") no-repeat;
 }
 
 .openmoji-1F1F5-1F1F8 {
-	background-position: 0 0;
+	background-position: 72.72727272727273% 45.45454545454545%;
 	width: 72px;
 	height: 72px;
 }

@@ -34,6 +34,7 @@
       "monkey-face",
       "emotion"
      ],
+     "name": "smileys-emotion-00",
      "hexcodes": [
       "1F600",
       "1F603",
@@ -186,9 +187,20 @@
       "1F5EF",
       "1F4AD",
       "1F4A4"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/smileys-emotion-00.png",
+       "css": "png/smileys-emotion-00.css"
+      },
+      "svg": {
+       "svg": "svg/smileys-emotion-00.svg",
+       "css": "svg/smileys-emotion-00.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "smileys-emotion"
   },
   "people-body": {
    "icon": "👋",
@@ -201,6 +213,7 @@
       "hand-single-finger",
       "hand-fingers-closed"
      ],
+     "name": "people-body-00",
      "hexcodes": [
       "1F44B",
       "1F44B-1F3FB",
@@ -346,7 +359,17 @@
       "1F91C-1F3FD",
       "1F91C-1F3FE",
       "1F91C-1F3FF"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-00.png",
+       "css": "png/people-body-00.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-00.svg",
+       "css": "svg/people-body-00.css"
+      }
+     }
     },
     {
      "postfix": "-01",
@@ -355,6 +378,7 @@
       "hand-prop",
       "body-parts"
      ],
+     "name": "people-body-01",
      "hexcodes": [
       "1F44F",
       "1F44F-1F3FB",
@@ -452,13 +476,24 @@
       "1F441",
       "1F445",
       "1F444"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-01.png",
+       "css": "png/people-body-01.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-01.svg",
+       "css": "svg/people-body-01.css"
+      }
+     }
     },
     {
      "postfix": "-02",
      "includeSubgroups": [
       "person"
      ],
+     "name": "people-body-02",
      "hexcodes": [
       "1F476",
       "1F476-1F3FB",
@@ -616,13 +651,24 @@
       "1F475-1F3FD",
       "1F475-1F3FE",
       "1F475-1F3FF"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-02.png",
+       "css": "png/people-body-02.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-02.svg",
+       "css": "svg/people-body-02.css"
+      }
+     }
     },
     {
      "postfix": "-03",
      "includeSubgroups": [
       "person-gesture"
      ],
+     "name": "people-body-03",
      "hexcodes": [
       "1F64D",
       "1F64D-1F3FB",
@@ -804,7 +850,17 @@
       "1F937-1F3FD-200D-2640-FE0F",
       "1F937-1F3FE-200D-2640-FE0F",
       "1F937-1F3FF-200D-2640-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-03.png",
+       "css": "png/people-body-03.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-03.svg",
+       "css": "svg/people-body-03.css"
+      }
+     }
     },
     {
      "postfix": "-04",
@@ -815,6 +871,7 @@
       "begin": 0,
       "end": 180
      },
+     "name": "people-body-04",
      "hexcodes": [
       "1F9D1-200D-2695-FE0F",
       "1F9D1-1F3FB-200D-2695-FE0F",
@@ -996,7 +1053,17 @@
       "1F469-1F3FD-200D-1F52C",
       "1F469-1F3FE-200D-1F52C",
       "1F469-1F3FF-200D-1F52C"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-04.png",
+       "css": "png/people-body-04.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-04.svg",
+       "css": "svg/people-body-04.css"
+      }
+     }
     },
     {
      "postfix": "-05",
@@ -1007,6 +1074,7 @@
       "begin": 180,
       "end": 360
      },
+     "name": "people-body-05",
      "hexcodes": [
       "1F9D1-200D-1F4BB",
       "1F9D1-1F3FB-200D-1F4BB",
@@ -1188,7 +1256,17 @@
       "1F477-1F3FD-200D-2640-FE0F",
       "1F477-1F3FE-200D-2640-FE0F",
       "1F477-1F3FF-200D-2640-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-05.png",
+       "css": "png/people-body-05.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-05.svg",
+       "css": "svg/people-body-05.css"
+      }
+     }
     },
     {
      "postfix": "-06",
@@ -1198,6 +1276,7 @@
      "range": {
       "begin": 360
      },
+     "name": "people-body-06",
      "hexcodes": [
       "1F934",
       "1F934-1F3FB",
@@ -1265,13 +1344,24 @@
       "1F931-1F3FD",
       "1F931-1F3FE",
       "1F931-1F3FF"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-06.png",
+       "css": "png/people-body-06.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-06.svg",
+       "css": "svg/people-body-06.css"
+      }
+     }
     },
     {
      "postfix": "-07",
      "includeSubgroups": [
       "person-fantasy"
      ],
+     "name": "people-body-07",
      "hexcodes": [
       "1F47C",
       "1F47C-1F3FB",
@@ -1423,7 +1513,17 @@
       "1F9DF",
       "1F9DF-200D-2642-FE0F",
       "1F9DF-200D-2640-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-07.png",
+       "css": "png/people-body-07.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-07.svg",
+       "css": "svg/people-body-07.css"
+      }
+     }
     },
     {
      "postfix": "-08",
@@ -1434,6 +1534,7 @@
       "begin": 0,
       "end": 120
      },
+     "name": "people-body-08",
      "hexcodes": [
       "1F486",
       "1F486-1F3FB",
@@ -1555,7 +1656,17 @@
       "1F468-1F3FD-200D-1F9BC",
       "1F468-1F3FE-200D-1F9BC",
       "1F468-1F3FF-200D-1F9BC"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-08.png",
+       "css": "png/people-body-08.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-08.svg",
+       "css": "svg/people-body-08.css"
+      }
+     }
     },
     {
      "postfix": "-09",
@@ -1565,6 +1676,7 @@
      "range": {
       "begin": 120
      },
+     "name": "people-body-09",
      "hexcodes": [
       "1F469-200D-1F9BC",
       "1F469-1F3FB-200D-1F9BC",
@@ -1665,7 +1777,17 @@
       "1F9D7-1F3FD-200D-2640-FE0F",
       "1F9D7-1F3FE-200D-2640-FE0F",
       "1F9D7-1F3FF-200D-2640-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-09.png",
+       "css": "png/people-body-09.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-09.svg",
+       "css": "svg/people-body-09.css"
+      }
+     }
     },
     {
      "postfix": "-10",
@@ -1676,6 +1798,7 @@
       "begin": 0,
       "end": 120
      },
+     "name": "people-body-10",
      "hexcodes": [
       "1F93A",
       "1F3C7",
@@ -1797,7 +1920,17 @@
       "1F3CB-1F3FB-200D-2640-FE0F",
       "1F3CB-1F3FC-200D-2640-FE0F",
       "1F3CB-1F3FD-200D-2640-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-10.png",
+       "css": "png/people-body-10.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-10.svg",
+       "css": "svg/people-body-10.css"
+      }
+     }
     },
     {
      "postfix": "-11",
@@ -1807,6 +1940,7 @@
      "range": {
       "begin": 120
      },
+     "name": "people-body-11",
      "hexcodes": [
       "1F3CB-1F3FE-200D-2640-FE0F",
       "1F3CB-1F3FF-200D-2640-FE0F",
@@ -1921,13 +2055,24 @@
       "1F939-1F3FD-200D-2640-FE0F",
       "1F939-1F3FE-200D-2640-FE0F",
       "1F939-1F3FF-200D-2640-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-11.png",
+       "css": "png/people-body-11.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-11.svg",
+       "css": "svg/people-body-11.css"
+      }
+     }
     },
     {
      "postfix": "-12",
      "includeSubgroups": [
       "person-resting"
      ],
+     "name": "people-body-12",
      "hexcodes": [
       "1F9D8",
       "1F9D8-1F3FB",
@@ -1959,7 +2104,17 @@
       "1F6CC-1F3FD",
       "1F6CC-1F3FE",
       "1F6CC-1F3FF"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-12.png",
+       "css": "png/people-body-12.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-12.svg",
+       "css": "svg/people-body-12.css"
+      }
+     }
     },
     {
      "postfix": "-13",
@@ -1967,6 +2122,7 @@
       "family",
       "person-symbol"
      ],
+     "name": "people-body-13",
      "hexcodes": [
       "1F9D1-200D-1F91D-200D-1F9D1",
       "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB",
@@ -2111,9 +2267,20 @@
       "1F465",
       "1FAC2",
       "1F463"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/people-body-13.png",
+       "css": "png/people-body-13.css"
+      },
+      "svg": {
+       "svg": "svg/people-body-13.svg",
+       "css": "svg/people-body-13.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "people-body"
   },
   "animals-nature": {
    "icon": "🐵",
@@ -2130,6 +2297,7 @@
       "plant-flower",
       "plant-other"
      ],
+     "name": "animals-nature-00",
      "hexcodes": [
       "1F435",
       "1F412",
@@ -2262,9 +2430,20 @@
       "1F341",
       "1F342",
       "1F343"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/animals-nature-00.png",
+       "css": "png/animals-nature-00.css"
+      },
+      "svg": {
+       "svg": "svg/animals-nature-00.svg",
+       "css": "svg/animals-nature-00.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "animals-nature"
   },
   "food-drink": {
    "icon": "🍇",
@@ -2281,6 +2460,7 @@
       "drink",
       "dishware"
      ],
+     "name": "food-drink-00",
      "hexcodes": [
       "1F347",
       "1F348",
@@ -2407,9 +2587,20 @@
       "1F944",
       "1F52A",
       "1F3FA"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/food-drink-00.png",
+       "css": "png/food-drink-00.css"
+      },
+      "svg": {
+       "svg": "svg/food-drink-00.svg",
+       "css": "svg/food-drink-00.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "food-drink"
   },
   "travel-places": {
    "icon": "🌍",
@@ -2423,6 +2614,7 @@
       "place-religious",
       "place-other"
      ],
+     "name": "travel-places-00",
      "hexcodes": [
       "1F30D",
       "1F30E",
@@ -2486,7 +2678,17 @@
       "1F3A2",
       "1F488",
       "1F3AA"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/travel-places-00.png",
+       "css": "png/travel-places-00.css"
+      },
+      "svg": {
+       "svg": "svg/travel-places-00.svg",
+       "css": "svg/travel-places-00.css"
+      }
+     }
     },
     {
      "postfix": "-01",
@@ -2498,6 +2700,7 @@
       "time",
       "sky-weather"
      ],
+     "name": "travel-places-01",
      "hexcodes": [
       "1F682",
       "1F683",
@@ -2649,9 +2852,20 @@
       "1F525",
       "1F4A7",
       "1F30A"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/travel-places-01.png",
+       "css": "png/travel-places-01.css"
+      },
+      "svg": {
+       "svg": "svg/travel-places-01.svg",
+       "css": "svg/travel-places-01.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "travel-places"
   },
   "activities": {
    "icon": "🎃",
@@ -2665,6 +2879,7 @@
       "game",
       "arts-crafts"
      ],
+     "name": "activities-00",
      "hexcodes": [
       "1F383",
       "1F384",
@@ -2748,9 +2963,20 @@
       "1F3A8",
       "1F9F5",
       "1F9F6"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/activities-00.png",
+       "css": "png/activities-00.css"
+      },
+      "svg": {
+       "svg": "svg/activities-00.svg",
+       "css": "svg/activities-00.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "activities"
   },
   "objects": {
    "icon": "👓",
@@ -2768,6 +2994,7 @@
       "book-paper",
       "money"
      ],
+     "name": "objects-00",
      "hexcodes": [
       "1F453",
       "1F576",
@@ -2900,7 +3127,17 @@
       "1F4B3",
       "1F9FE",
       "1F4B9"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/objects-00.png",
+       "css": "png/objects-00.css"
+      },
+      "svg": {
+       "svg": "svg/objects-00.svg",
+       "css": "svg/objects-00.css"
+      }
+     }
     },
     {
      "postfix": "-01",
@@ -2915,6 +3152,7 @@
       "household",
       "other-object"
      ],
+     "name": "objects-01",
      "hexcodes": [
       "2709",
       "1F4E7",
@@ -3019,9 +3257,20 @@
       "26B0",
       "26B1",
       "1F5FF"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/objects-01.png",
+       "css": "png/objects-01.css"
+      },
+      "svg": {
+       "svg": "svg/objects-01.svg",
+       "css": "svg/objects-01.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "objects"
   },
   "symbols": {
    "icon": "🏧",
@@ -3037,6 +3286,7 @@
       "av-symbol",
       "gender"
      ],
+     "name": "symbols-00",
      "hexcodes": [
       "1F3E7",
       "1F6AE",
@@ -3137,7 +3387,17 @@
       "2640",
       "2642",
       "26A7"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/symbols-00.png",
+       "css": "png/symbols-00.css"
+      },
+      "svg": {
+       "svg": "svg/symbols-00.svg",
+       "css": "svg/symbols-00.css"
+      }
+     }
     },
     {
      "postfix": "-01",
@@ -3150,6 +3410,7 @@
       "alphanum",
       "geometric"
      ],
+     "name": "symbols-01",
      "hexcodes": [
       "2716",
       "2795",
@@ -3272,9 +3533,20 @@
       "1F518",
       "1F533",
       "1F532"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/symbols-01.png",
+       "css": "png/symbols-01.css"
+      },
+      "svg": {
+       "svg": "svg/symbols-01.svg",
+       "css": "svg/symbols-01.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "symbols"
   },
   "flags": {
    "icon": "🏁",
@@ -3284,6 +3556,7 @@
      "includeSubgroups": [
       "flag"
      ],
+     "name": "flags-00",
      "hexcodes": [
       "1F3C1",
       "1F6A9",
@@ -3293,7 +3566,17 @@
       "1F3F3-FE0F-200D-1F308",
       "1F3F3-FE0F-200D-26A7-FE0F",
       "1F3F4-200D-2620-FE0F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/flags-00.png",
+       "css": "png/flags-00.css"
+      },
+      "svg": {
+       "svg": "svg/flags-00.svg",
+       "css": "svg/flags-00.css"
+      }
+     }
     },
     {
      "postfix": "-01",
@@ -3304,6 +3587,7 @@
       "begin": 0,
       "end": 120
      },
+     "name": "flags-01",
      "hexcodes": [
       "1F1E6-1F1E8",
       "1F1E6-1F1E9",
@@ -3425,7 +3709,17 @@
       "1F1EF-1F1F2",
       "1F1EF-1F1F4",
       "1F1EF-1F1F5"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/flags-01.png",
+       "css": "png/flags-01.css"
+      },
+      "svg": {
+       "svg": "svg/flags-01.svg",
+       "css": "svg/flags-01.css"
+      }
+     }
     },
     {
      "postfix": "-02",
@@ -3435,6 +3729,7 @@
      "range": {
       "begin": 120
      },
+     "name": "flags-02",
      "hexcodes": [
       "1F1F0-1F1EA",
       "1F1F0-1F1EC",
@@ -3574,20 +3869,42 @@
       "1F1FF-1F1E6",
       "1F1FF-1F1F2",
       "1F1FF-1F1FC"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/flags-02.png",
+       "css": "png/flags-02.css"
+      },
+      "svg": {
+       "svg": "svg/flags-02.svg",
+       "css": "svg/flags-02.css"
+      }
+     }
     },
     {
      "postfix": "-03",
      "includeSubgroups": [
       "subdivision-flag"
      ],
+     "name": "flags-03",
      "hexcodes": [
       "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
       "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F",
       "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/flags-03.png",
+       "css": "png/flags-03.css"
+      },
+      "svg": {
+       "svg": "svg/flags-03.svg",
+       "css": "svg/flags-03.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "flags"
   },
   "extras-openmoji": {
    "icon": "🦄",
@@ -3603,6 +3920,7 @@
       "healthcare",
       "interaction"
      ],
+     "name": "extras-openmoji-00",
      "hexcodes": [
       "E000",
       "E001",
@@ -3741,7 +4059,17 @@
       "E10B",
       "E10C",
       "E10D"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/extras-openmoji-00.png",
+       "css": "png/extras-openmoji-00.css"
+      },
+      "svg": {
+       "svg": "svg/extras-openmoji-00.svg",
+       "css": "svg/extras-openmoji-00.css"
+      }
+     }
     },
     {
      "postfix": "-01",
@@ -3754,6 +4082,7 @@
       "travel-places",
       "ui-element"
      ],
+     "name": "extras-openmoji-01",
      "hexcodes": [
       "E140",
       "E141",
@@ -3847,9 +4176,20 @@
       "E267",
       "E268",
       "E269"
-     ]
+     ],
+     "files": {
+      "png72": {
+       "png": "png/extras-openmoji-01.png",
+       "css": "png/extras-openmoji-01.css"
+      },
+      "svg": {
+       "svg": "svg/extras-openmoji-01.svg",
+       "css": "svg/extras-openmoji-01.css"
+      }
+     }
     }
-   ]
+   ],
+   "name": "extras-openmoji"
   }
  },
  "version": "2.1.1"

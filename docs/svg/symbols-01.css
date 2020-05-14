@@ -4,13 +4,13 @@ background: url("symbols-01.svg") no-repeat;
 }
 
 .openmoji-1F532 {
-	background-position: 10% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-1F533 {
-	background-position: 40% 70%;
+	background-position: 10% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -364,7 +364,7 @@ background: url("symbols-01.svg") no-repeat;
 }
 
 .openmoji-1F194 {
-	background-position: 0 0;
+	background-position: 40% 70%;
 	width: 72px;
 	height: 72px;
 }

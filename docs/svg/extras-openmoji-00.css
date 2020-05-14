@@ -4,13 +4,13 @@ background: url("extras-openmoji-00.svg") no-repeat;
 }
 
 .openmoji-E10D {
-	background-position: 9.090909090909092% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-E10C {
-	background-position: 72.72727272727273% 36.36363636363637%;
+	background-position: 9.090909090909092% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -412,7 +412,7 @@ background: url("extras-openmoji-00.svg") no-repeat;
 }
 
 .openmoji-E0A1 {
-	background-position: 0 0;
+	background-position: 72.72727272727273% 36.36363636363637%;
 	width: 72px;
 	height: 72px;
 }

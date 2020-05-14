@@ -4,13 +4,13 @@ background: url("people-body-11.svg") no-repeat;
 }
 
 .openmoji-1F939-1F3FF-200D-2640-FE0F {
-	background-position: 10% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-1F939-1F3FE-200D-2640-FE0F {
-	background-position: 0 70%;
+	background-position: 10% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -340,7 +340,7 @@ background: url("people-body-11.svg") no-repeat;
 }
 
 .openmoji-1F93C {
-	background-position: 0 0;
+	background-position: 0 70%;
 	width: 72px;
 	height: 72px;
 }

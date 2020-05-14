@@ -4,13 +4,13 @@ background: url("travel-places-00.svg") no-repeat;
 }
 
 .openmoji-1F3AA {
-	background-position: 14.285714285714286% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-1F488 {
-	background-position: 14.285714285714286% 71.42857142857143%;
+	background-position: 14.285714285714286% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -190,7 +190,7 @@ background: url("travel-places-00.svg") no-repeat;
 }
 
 .openmoji-1F3E9 {
-	background-position: 0 0;
+	background-position: 14.285714285714286% 71.42857142857143%;
 	width: 72px;
 	height: 72px;
 }

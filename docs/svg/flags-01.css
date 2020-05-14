@@ -4,13 +4,13 @@ background: url("flags-01.svg") no-repeat;
 }
 
 .openmoji-1F1EF-1F1F5 {
-	background-position: 10% 0;
+	background-position: 0 0;
 	width: 72px;
 	height: 72px;
 }
 
 .openmoji-1F1EF-1F1F4 {
-	background-position: 40% 70%;
+	background-position: 10% 0;
 	width: 72px;
 	height: 72px;
 }
@@ -364,7 +364,7 @@ background: url("flags-01.svg") no-repeat;
 }
 
 .openmoji-1F1E9-1F1EC {
-	background-position: 0 0;
+	background-position: 40% 70%;
 	width: 72px;
 	height: 72px;
 }

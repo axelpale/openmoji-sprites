@@ -48,7 +48,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/smileys-emotion-00.png">smileys-emotion-00.png</a> ~ 218 kB<br>
-  CSS sprite sheet: <a href="png/smileys-emotion-00.css">smileys-emotion-00.css</a> ~ 9 kB<br>
+  CSS sprite sheet: <a href="png/smileys-emotion-00.css">smileys-emotion-00.css</a> ~ 16 kB<br>
   Custom JSON: <a href="png/smileys-emotion-00.json">smileys-emotion-00.json</a><br>
   Hexcodes JS: <a href="png/smileys-emotion-00-hexcodes.js">smileys-emotion-00-hexcodes.js</a>
   </p>
@@ -86,7 +86,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-00.png">people-body-00.png</a> ~ 235 kB<br>
-  CSS sprite sheet: <a href="png/people-body-00.css">people-body-00.css</a> ~ 9 kB<br>
+  CSS sprite sheet: <a href="png/people-body-00.css">people-body-00.css</a> ~ 16 kB<br>
   Custom JSON: <a href="png/people-body-00.json">people-body-00.json</a><br>
   Hexcodes JS: <a href="png/people-body-00-hexcodes.js">people-body-00-hexcodes.js</a>
   </p>
@@ -122,7 +122,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-01.png">people-body-01.png</a> ~ 171 kB<br>
-  CSS sprite sheet: <a href="png/people-body-01.css">people-body-01.css</a> ~ 6 kB<br>
+  CSS sprite sheet: <a href="png/people-body-01.css">people-body-01.css</a> ~ 10 kB<br>
   Custom JSON: <a href="png/people-body-01.json">people-body-01.json</a><br>
   Hexcodes JS: <a href="png/people-body-01-hexcodes.js">people-body-01-hexcodes.js</a>
   </p>
@@ -158,7 +158,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-02.png">people-body-02.png</a> ~ 149 kB<br>
-  CSS sprite sheet: <a href="png/people-body-02.css">people-body-02.css</a> ~ 11 kB<br>
+  CSS sprite sheet: <a href="png/people-body-02.css">people-body-02.css</a> ~ 18 kB<br>
   Custom JSON: <a href="png/people-body-02.json">people-body-02.json</a><br>
   Hexcodes JS: <a href="png/people-body-02-hexcodes.js">people-body-02-hexcodes.js</a>
   </p>
@@ -194,7 +194,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-03.png">people-body-03.png</a> ~ 289 kB<br>
-  CSS sprite sheet: <a href="png/people-body-03.css">people-body-03.css</a> ~ 13 kB<br>
+  CSS sprite sheet: <a href="png/people-body-03.css">people-body-03.css</a> ~ 21 kB<br>
   Custom JSON: <a href="png/people-body-03.json">people-body-03.json</a><br>
   Hexcodes JS: <a href="png/people-body-03-hexcodes.js">people-body-03-hexcodes.js</a>
   </p>
@@ -230,7 +230,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-04.png">people-body-04.png</a> ~ 250 kB<br>
-  CSS sprite sheet: <a href="png/people-body-04.css">people-body-04.css</a> ~ 13 kB<br>
+  CSS sprite sheet: <a href="png/people-body-04.css">people-body-04.css</a> ~ 21 kB<br>
   Custom JSON: <a href="png/people-body-04.json">people-body-04.json</a><br>
   Hexcodes JS: <a href="png/people-body-04-hexcodes.js">people-body-04-hexcodes.js</a>
   </p>
@@ -266,7 +266,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-05.png">people-body-05.png</a> ~ 257 kB<br>
-  CSS sprite sheet: <a href="png/people-body-05.css">people-body-05.css</a> ~ 13 kB<br>
+  CSS sprite sheet: <a href="png/people-body-05.css">people-body-05.css</a> ~ 21 kB<br>
   Custom JSON: <a href="png/people-body-05.json">people-body-05.json</a><br>
   Hexcodes JS: <a href="png/people-body-05-hexcodes.js">people-body-05-hexcodes.js</a>
   </p>
@@ -302,7 +302,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-06.png">people-body-06.png</a> ~ 107 kB<br>
-  CSS sprite sheet: <a href="png/people-body-06.css">people-body-06.css</a> ~ 4 kB<br>
+  CSS sprite sheet: <a href="png/people-body-06.css">people-body-06.css</a> ~ 7 kB<br>
   Custom JSON: <a href="png/people-body-06.json">people-body-06.json</a><br>
   Hexcodes JS: <a href="png/people-body-06-hexcodes.js">people-body-06-hexcodes.js</a>
   </p>
@@ -338,7 +338,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-07.png">people-body-07.png</a> ~ 235 kB<br>
-  CSS sprite sheet: <a href="png/people-body-07.css">people-body-07.css</a> ~ 11 kB<br>
+  CSS sprite sheet: <a href="png/people-body-07.css">people-body-07.css</a> ~ 17 kB<br>
   Custom JSON: <a href="png/people-body-07.json">people-body-07.json</a><br>
   Hexcodes JS: <a href="png/people-body-07-hexcodes.js">people-body-07-hexcodes.js</a>
   </p>
@@ -374,7 +374,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-08.png">people-body-08.png</a> ~ 167 kB<br>
-  CSS sprite sheet: <a href="png/people-body-08.css">people-body-08.css</a> ~ 9 kB<br>
+  CSS sprite sheet: <a href="png/people-body-08.css">people-body-08.css</a> ~ 14 kB<br>
   Custom JSON: <a href="png/people-body-08.json">people-body-08.json</a><br>
   Hexcodes JS: <a href="png/people-body-08-hexcodes.js">people-body-08-hexcodes.js</a>
   </p>
@@ -410,7 +410,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-09.png">people-body-09.png</a> ~ 132 kB<br>
-  CSS sprite sheet: <a href="png/people-body-09.css">people-body-09.css</a> ~ 7 kB<br>
+  CSS sprite sheet: <a href="png/people-body-09.css">people-body-09.css</a> ~ 12 kB<br>
   Custom JSON: <a href="png/people-body-09.json">people-body-09.json</a><br>
   Hexcodes JS: <a href="png/people-body-09-hexcodes.js">people-body-09-hexcodes.js</a>
   </p>
@@ -446,7 +446,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-10.png">people-body-10.png</a> ~ 155 kB<br>
-  CSS sprite sheet: <a href="png/people-body-10.css">people-body-10.css</a> ~ 9 kB<br>
+  CSS sprite sheet: <a href="png/people-body-10.css">people-body-10.css</a> ~ 14 kB<br>
   Custom JSON: <a href="png/people-body-10.json">people-body-10.json</a><br>
   Hexcodes JS: <a href="png/people-body-10-hexcodes.js">people-body-10-hexcodes.js</a>
   </p>
@@ -482,7 +482,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-11.png">people-body-11.png</a> ~ 159 kB<br>
-  CSS sprite sheet: <a href="png/people-body-11.css">people-body-11.css</a> ~ 8 kB<br>
+  CSS sprite sheet: <a href="png/people-body-11.css">people-body-11.css</a> ~ 13 kB<br>
   Custom JSON: <a href="png/people-body-11.json">people-body-11.json</a><br>
   Hexcodes JS: <a href="png/people-body-11-hexcodes.js">people-body-11-hexcodes.js</a>
   </p>
@@ -518,7 +518,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-12.png">people-body-12.png</a> ~ 27 kB<br>
-  CSS sprite sheet: <a href="png/people-body-12.css">people-body-12.css</a> ~ 2 kB<br>
+  CSS sprite sheet: <a href="png/people-body-12.css">people-body-12.css</a> ~ 3 kB<br>
   Custom JSON: <a href="png/people-body-12.json">people-body-12.json</a><br>
   Hexcodes JS: <a href="png/people-body-12-hexcodes.js">people-body-12-hexcodes.js</a>
   </p>
@@ -554,7 +554,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/people-body-13.png">people-body-13.png</a> ~ 201 kB<br>
-  CSS sprite sheet: <a href="png/people-body-13.css">people-body-13.css</a> ~ 12 kB<br>
+  CSS sprite sheet: <a href="png/people-body-13.css">people-body-13.css</a> ~ 18 kB<br>
   Custom JSON: <a href="png/people-body-13.json">people-body-13.json</a><br>
   Hexcodes JS: <a href="png/people-body-13-hexcodes.js">people-body-13-hexcodes.js</a>
   </p>
@@ -592,7 +592,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/animals-nature-00.png">animals-nature-00.png</a> ~ 265 kB<br>
-  CSS sprite sheet: <a href="png/animals-nature-00.css">animals-nature-00.css</a> ~ 8 kB<br>
+  CSS sprite sheet: <a href="png/animals-nature-00.css">animals-nature-00.css</a> ~ 14 kB<br>
   Custom JSON: <a href="png/animals-nature-00.json">animals-nature-00.json</a><br>
   Hexcodes JS: <a href="png/animals-nature-00-hexcodes.js">animals-nature-00-hexcodes.js</a>
   </p>
@@ -630,7 +630,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/food-drink-00.png">food-drink-00.png</a> ~ 208 kB<br>
-  CSS sprite sheet: <a href="png/food-drink-00.css">food-drink-00.css</a> ~ 7 kB<br>
+  CSS sprite sheet: <a href="png/food-drink-00.css">food-drink-00.css</a> ~ 13 kB<br>
   Custom JSON: <a href="png/food-drink-00.json">food-drink-00.json</a><br>
   Hexcodes JS: <a href="png/food-drink-00-hexcodes.js">food-drink-00-hexcodes.js</a>
   </p>
@@ -668,7 +668,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/travel-places-00.png">travel-places-00.png</a> ~ 83 kB<br>
-  CSS sprite sheet: <a href="png/travel-places-00.css">travel-places-00.css</a> ~ 4 kB<br>
+  CSS sprite sheet: <a href="png/travel-places-00.css">travel-places-00.css</a> ~ 7 kB<br>
   Custom JSON: <a href="png/travel-places-00.json">travel-places-00.json</a><br>
   Hexcodes JS: <a href="png/travel-places-00-hexcodes.js">travel-places-00-hexcodes.js</a>
   </p>
@@ -704,7 +704,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/travel-places-01.png">travel-places-01.png</a> ~ 196 kB<br>
-  CSS sprite sheet: <a href="png/travel-places-01.css">travel-places-01.css</a> ~ 9 kB<br>
+  CSS sprite sheet: <a href="png/travel-places-01.css">travel-places-01.css</a> ~ 16 kB<br>
   Custom JSON: <a href="png/travel-places-01.json">travel-places-01.json</a><br>
   Hexcodes JS: <a href="png/travel-places-01-hexcodes.js">travel-places-01-hexcodes.js</a>
   </p>
@@ -742,7 +742,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/activities-00.png">activities-00.png</a> ~ 154 kB<br>
-  CSS sprite sheet: <a href="png/activities-00.css">activities-00.css</a> ~ 5 kB<br>
+  CSS sprite sheet: <a href="png/activities-00.css">activities-00.css</a> ~ 8 kB<br>
   Custom JSON: <a href="png/activities-00.json">activities-00.json</a><br>
   Hexcodes JS: <a href="png/activities-00-hexcodes.js">activities-00-hexcodes.js</a>
   </p>
@@ -780,7 +780,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/objects-00.png">objects-00.png</a> ~ 172 kB<br>
-  CSS sprite sheet: <a href="png/objects-00.css">objects-00.css</a> ~ 8 kB<br>
+  CSS sprite sheet: <a href="png/objects-00.css">objects-00.css</a> ~ 13 kB<br>
   Custom JSON: <a href="png/objects-00.json">objects-00.json</a><br>
   Hexcodes JS: <a href="png/objects-00-hexcodes.js">objects-00-hexcodes.js</a>
   </p>
@@ -816,7 +816,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/objects-01.png">objects-01.png</a> ~ 129 kB<br>
-  CSS sprite sheet: <a href="png/objects-01.css">objects-01.css</a> ~ 6 kB<br>
+  CSS sprite sheet: <a href="png/objects-01.css">objects-01.css</a> ~ 10 kB<br>
   Custom JSON: <a href="png/objects-01.json">objects-01.json</a><br>
   Hexcodes JS: <a href="png/objects-01-hexcodes.js">objects-01-hexcodes.js</a>
   </p>
@@ -854,7 +854,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/symbols-00.png">symbols-00.png</a> ~ 114 kB<br>
-  CSS sprite sheet: <a href="png/symbols-00.css">symbols-00.css</a> ~ 6 kB<br>
+  CSS sprite sheet: <a href="png/symbols-00.css">symbols-00.css</a> ~ 10 kB<br>
   Custom JSON: <a href="png/symbols-00.json">symbols-00.json</a><br>
   Hexcodes JS: <a href="png/symbols-00-hexcodes.js">symbols-00-hexcodes.js</a>
   </p>
@@ -890,7 +890,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/symbols-01.png">symbols-01.png</a> ~ 96 kB<br>
-  CSS sprite sheet: <a href="png/symbols-01.css">symbols-01.css</a> ~ 7 kB<br>
+  CSS sprite sheet: <a href="png/symbols-01.css">symbols-01.css</a> ~ 12 kB<br>
   Custom JSON: <a href="png/symbols-01.json">symbols-01.json</a><br>
   Hexcodes JS: <a href="png/symbols-01-hexcodes.js">symbols-01-hexcodes.js</a>
   </p>
@@ -964,7 +964,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/flags-01.png">flags-01.png</a> ~ 64 kB<br>
-  CSS sprite sheet: <a href="png/flags-01.css">flags-01.css</a> ~ 8 kB<br>
+  CSS sprite sheet: <a href="png/flags-01.css">flags-01.css</a> ~ 12 kB<br>
   Custom JSON: <a href="png/flags-01.json">flags-01.json</a><br>
   Hexcodes JS: <a href="png/flags-01-hexcodes.js">flags-01-hexcodes.js</a>
   </p>
@@ -1000,7 +1000,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/flags-02.png">flags-02.png</a> ~ 83 kB<br>
-  CSS sprite sheet: <a href="png/flags-02.css">flags-02.css</a> ~ 9 kB<br>
+  CSS sprite sheet: <a href="png/flags-02.css">flags-02.css</a> ~ 14 kB<br>
   Custom JSON: <a href="png/flags-02.json">flags-02.json</a><br>
   Hexcodes JS: <a href="png/flags-02-hexcodes.js">flags-02-hexcodes.js</a>
   </p>
@@ -1036,7 +1036,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/flags-03.png">flags-03.png</a> ~ 3 kB<br>
-  CSS sprite sheet: <a href="png/flags-03.css">flags-03.css</a> ~ 0 kB<br>
+  CSS sprite sheet: <a href="png/flags-03.css">flags-03.css</a> ~ 1 kB<br>
   Custom JSON: <a href="png/flags-03.json">flags-03.json</a><br>
   Hexcodes JS: <a href="png/flags-03-hexcodes.js">flags-03-hexcodes.js</a>
   </p>
@@ -1074,7 +1074,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/extras-openmoji-00.png">extras-openmoji-00.png</a> ~ 214 kB<br>
-  CSS sprite sheet: <a href="png/extras-openmoji-00.css">extras-openmoji-00.css</a> ~ 8 kB<br>
+  CSS sprite sheet: <a href="png/extras-openmoji-00.css">extras-openmoji-00.css</a> ~ 15 kB<br>
   Custom JSON: <a href="png/extras-openmoji-00.json">extras-openmoji-00.json</a><br>
   Hexcodes JS: <a href="png/extras-openmoji-00-hexcodes.js">extras-openmoji-00-hexcodes.js</a>
   </p>
@@ -1110,7 +1110,7 @@ How to use the files? See the html examples in the package.
 
   <p>
   Sheet image: <a href="png/extras-openmoji-01.png">extras-openmoji-01.png</a> ~ 104 kB<br>
-  CSS sprite sheet: <a href="png/extras-openmoji-01.css">extras-openmoji-01.css</a> ~ 5 kB<br>
+  CSS sprite sheet: <a href="png/extras-openmoji-01.css">extras-openmoji-01.css</a> ~ 10 kB<br>
   Custom JSON: <a href="png/extras-openmoji-01.json">extras-openmoji-01.json</a><br>
   Hexcodes JS: <a href="png/extras-openmoji-01-hexcodes.js">extras-openmoji-01-hexcodes.js</a>
   </p>
