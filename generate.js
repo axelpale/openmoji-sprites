@@ -87,13 +87,9 @@ asyn.eachSeries(sheetArray, (sheet, next) => {
     return
   }
 
-  // Generate an index page to browse the generated sheets.
-  // const indexHtml = generateIndex(groupArray)
-  // const indexPath = path.join(__dirname, 'docs', 'generated.html')
-  // fs.writeFileSync(indexPath, indexHtml)
+  // These need the sheet files be generated before running.
+  generateIndexMd()
+  generateSpritesJson()
 
   console.log('Finished successfully.')
 })
-
-generateIndexMd()
-generateSpritesJson()
