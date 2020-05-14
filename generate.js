@@ -1,15 +1,15 @@
 // This runner is meant for customisation and to give an example of
 // how multiple sprite sheets can be created with a single command.
 //
-const openmojis = require('./openmoji.json') // TODO require('openmoji')
 const _ = require('lodash')
+const path = require('path')
 const asyn = require('async')
 const mkdirp = require('mkdirp')
+const config = require('./config')
+const openmojis = require('./openmoji.json') // TODO require('openmoji')
 const generate = require('openmoji-spritemap-generator')
 const generateIndexMd = require('./lib/generate-index-md')
 const generateSpritesJson = require('./lib/generate-sprites-json')
-const config = require('./config')
-const path = require('path')
 
 const BUILD_DIR = path.join(__dirname, 'dist')
 
