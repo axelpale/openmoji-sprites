@@ -4,6 +4,7 @@
 const openmojis = require('./openmoji.json') // TODO require('openmoji')
 const _ = require('lodash')
 const asyn = require('async')
+const mkdirp = require('mkdirp')
 const generate = require('openmoji-spritemap-generator')
 const generateIndexMd = require('./lib/generate-index-md')
 const generateSpritesJson = require('./lib/generate-sprites-json')
@@ -11,6 +12,9 @@ const config = require('./config')
 const path = require('path')
 
 const BUILD_DIR = path.join(__dirname, 'dist')
+
+// Ensure build dir
+mkdirp.sync(BUILD_DIR)
 
 // Group emojis by their group name into an object.
 // Use the group names as keys.
