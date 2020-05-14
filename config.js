@@ -16,6 +16,7 @@ module.exports = {
   groups: {
     'smileys-emotion': {
       icon: '😀',
+      iconHexcode: '', // TODO
       sheets: [
         {
           postfix: '-00',
