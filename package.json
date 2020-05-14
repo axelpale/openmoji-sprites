@@ -20,7 +20,8 @@
     "generate": "node generate.js",
     "lint": "standard '**/*.js' && echo OK",
     "lintfix": "standard --fix '**/*.js' && echo OK",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "release": "npm test && npm publish"
   },
   "author": {
     "name": "Akseli Palén",
