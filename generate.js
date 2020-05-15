@@ -67,7 +67,7 @@ asyn.eachSeries(sheetArray, (sheet, next) => {
     name: sheet.name,
     emojis: sheet.emojis,
     emojiDir: path.join(__dirname, 'openmoji-72x72-color'),
-    targetDir: path.join(BUILD_DIR, 'png'),
+    targetDir: path.join(BUILD_DIR, 'png72'),
     emojiSize: 72,
     columns: COLUMNS
   }, (er) => {

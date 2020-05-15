@@ -24,19 +24,20 @@ Usage:
 
 Usage with [Webpack](https://webpack.js.org/), [file-loader](https://webpack.js.org/loaders/file-loader/), and [style-loader](https://webpack.js.org/loaders/style-loader/):
 
-    const urlToAnimals = require('openmoji-sprites/docs/png/animals-nature-00.png')
+    const urlToAnimals = require('openmoji-sprites/docs/png72/animals-nature-00.png')
+    require('openmoji-sprites/docs/png72/animals-nature-00.css')
 
 Advanced usage with Webpack and [require.context](https://webpack.js.org/guides/dependency-management/#requirecontext):
 
     const sprites = require('openmoji-sprites')
-    // Preload all PNG sheets and bundle their CSS
-    const resolve = require.context('openmoji-sprites/docs/', true, /\.(png|css)$/i)
+    // Preload all PNG sheets and bundle their CSS.
+    const resolve = require.context('openmoji-sprites/docs/png72/', true, /\.(png|css)$/i)
     // Activate each CSS sheet.
     sprites.includeGroups.forEach(groupName => {
       const group = sprites.groups[groupName]
       group.sheets.forEach(sheet => {
         // Style loader inserts CSS into DOM when resolved.
-        resolve(sheet.files.png.css)
+        resolve(sheet.files.png72.css)
       })
     })
 
