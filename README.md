@@ -53,7 +53,10 @@ Full schema by example:
       ],
       groups: {
         'smileys-emotion': {
-          icon: '😀',
+          icon: {
+            emoji: '😀',
+            hexcode: '1F600'
+          },
           sheets: [
             {
               postfix: '-00',

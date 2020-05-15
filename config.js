@@ -15,8 +15,10 @@ module.exports = {
   ],
   groups: {
     'smileys-emotion': {
-      icon: '😀',
-      iconHexcode: '', // TODO
+      icon: {
+        emoji: '😀',
+        hexcode: '1F600'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -41,7 +43,10 @@ module.exports = {
       ]
     },
     'people-body': {
-      icon: '👋',
+      icon: {
+        emoji: '👋',
+        hexcode: '1F44B'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -148,7 +153,10 @@ module.exports = {
       ]
     },
     'animals-nature': {
-      icon: '🐵',
+      icon: {
+        emoji: '🐵',
+        hexcode: '1F435'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -166,7 +174,10 @@ module.exports = {
       ]
     },
     'food-drink': {
-      icon: '🍇',
+      icon: {
+        emoji: '🍇',
+        hexcode: '1F347'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -184,7 +195,10 @@ module.exports = {
       ]
     },
     'travel-places': {
-      icon: '🌍',
+      icon: {
+        emoji: '🌍',
+        hexcode: '1F30D'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -209,7 +223,10 @@ module.exports = {
       ]
     },
     'activities': {
-      icon: '🎃',
+      icon: {
+        emoji: '🎃',
+        hexcode: '1F383'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -224,7 +241,10 @@ module.exports = {
       ]
     },
     'objects': {
-      icon: '👓',
+      icon: {
+        emoji: '👓',
+        hexcode: '1F453'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -256,7 +276,10 @@ module.exports = {
       ]
     },
     'symbols': {
-      icon: '🏧',
+      icon: {
+        emoji: '🏧',
+        hexcode: '1F3E7'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -284,7 +307,10 @@ module.exports = {
       ]
     },
     'flags': {
-      icon: '🏁',
+      icon: {
+        emoji: '🏁',
+        hexcode: '1F3C1'
+      },
       sheets: [
         {
           postfix: '-00',
@@ -317,7 +343,10 @@ module.exports = {
       ]
     },
     'extras-openmoji': {
-      icon: '🦄',
+      icon: {
+        emoji: '🦄',
+        hexcode: '1F984'
+      },
       sheets: [
         {
           postfix: '-00',
