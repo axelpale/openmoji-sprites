@@ -73,7 +73,17 @@ Full schema by example:
                 '1F603',
                 '1F604',
                 ...
-              ]
+              ],
+              files: {
+                png72: {
+                  png: 'smileys-emotion-00.png',
+                  css: 'smileys-emotion-00.css'
+                },
+                svg: {
+                  svg: 'smileys-emotion-00.svg',
+                  css: 'smileys-emotion-00.css'
+                }
+              }
             },
             ...
           ]
