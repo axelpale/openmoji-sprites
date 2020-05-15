@@ -22,7 +22,7 @@ Usage:
       ...
     ]
 
-Usage with [Webpack](https://webpack.js.org/) and [file-loader](https://webpack.js.org/loaders/file-loader/):
+Usage with [Webpack](https://webpack.js.org/), [file-loader](https://webpack.js.org/loaders/file-loader/), and [style-loader](https://webpack.js.org/loaders/style-loader/):
 
     const urlToAnimals = require('openmoji-sprites/docs/png/animals-nature-00.png')
 
@@ -40,7 +40,7 @@ Advanced usage with Webpack and [require.context](https://webpack.js.org/guides/
       })
     })
 
-    // Then for example:
+    // Then for example insert a smiley:
     button.innerHTML = '<span class="openmoji openmoji-1F600"></span>'
 
 Full schema by example:
