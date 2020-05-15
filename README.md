@@ -54,12 +54,14 @@ Full schema by example:
       ],
       groups: {
         'smileys-emotion': {
+          name: 'smileys-emotion',
           icon: {
             emoji: '😀',
             hexcode: '1F600'
           },
           sheets: [
             {
+              name: 'smileys-emotion-00',
               postfix: '-00',
               includeSubgroups: [
                 'face-smiling',
