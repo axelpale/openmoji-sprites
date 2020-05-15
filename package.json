@@ -21,6 +21,7 @@
     "lint": "standard '**/*.js' && echo OK",
     "lintfix": "standard --fix '**/*.js' && echo OK",
     "test": "npm run lint",
+    "move": "cp -R dist/* docs",
     "release": "npm test && npm publish"
   },
   "author": {
